@@ -1,0 +1,14 @@
+
+# Données brutes et fichiers de données
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+venv/
+.venv/
+
+# Fichiers de configuration locaux
+.env
