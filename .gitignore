@@ -1,6 +1,7 @@
 
 # Données brutes et fichiers de données
 data/
+.ipynb_checkpoints/
 
 # Python
 __pycache__/

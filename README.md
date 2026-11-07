@@ -76,7 +76,7 @@ Une analyse plus approfondie est réalisée chaque mois afin d'adapter les campa
 
 ### 2.4 Question principale du tableau de bord
 
-**Comment identifier les comportements et les habitudes de déplacement des utilisateurs occasionnels afin de mieux cibler les campagnes marketing et d'encourager la souscription d'abonnements annuels ?**
+**Dans quelles stations et à quelles périodes concentrer les campagnes de conversion des utilisateurs occasionnels ?**
 
 Le futur tableau de bord devra permettre de comparer les différents profils d'utilisateurs, d'identifier les périodes et les zones géographiques les plus fréquentées et de fournir des indicateurs utiles à la prise de décision.
 
@@ -87,3 +87,31 @@ Le futur tableau de bord devra permettre de comparer les différents profils d'u
 - [Divvy System Data](https://divvybikes.com/system-data)
 - [Divvy Historical Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 - [Divvy – Informations sur le service](https://divvybikes.com/)
+
+## Qualité et nettoyage des données (Silver)
+
+La couche Silver transforme les données brutes Bronze en données typées
+et exploitables.
+
+Les principales règles appliquées sont :
+
+- Suppression des identifiants de trajets dupliqués.
+  Les 211 doublons détectés correspondaient à des trajets identiques
+  après normalisation des horodatages à la seconde près.
+
+- Suppression des trajets présentant une durée nulle ou négative,
+  à l'exception de 72 trajets concernés par le changement d'heure
+  (passage à l'heure d'hiver), conservés avec une durée NULL.
+
+- Conservation des trajets dont les stations de départ ou d'arrivée
+  sont manquantes, car ils restent exploitables pour les analyses
+  temporelles et par type d'utilisateur.
+
+- Conservation des coordonnées d'arrivée manquantes.
+
+- Conversion des dates en timestamps et des coordonnées géographiques
+  en valeurs numériques.
+
+Au total, 891 lignes ont été supprimées :
+211 doublons et 680 trajets présentant une durée invalide.
+La couche Silver contient 11 412 671 trajets.
