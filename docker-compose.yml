@@ -12,6 +12,13 @@ services:
     environment:
       JUPYTER_ENABLE_LAB: "yes"
       S3_ENDPOINT: http://rustfs:9000
+      S3_ACCESS_KEY: rustfsadmin
+      S3_SECRET_KEY: rustfsadmin
+      PG_URL: jdbc:postgresql://postgres:5432/divvy
+      PG_HOST: postgres
+      PG_DB: divvy
+      PG_USER: divvy
+      PG_PASSWORD: divvy
       AWS_ACCESS_KEY_ID: rustfsadmin
       AWS_SECRET_ACCESS_KEY: rustfsadmin
 
