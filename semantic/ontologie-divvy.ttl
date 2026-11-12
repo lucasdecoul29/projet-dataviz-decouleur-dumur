@@ -1,0 +1,146 @@
+
+@prefix : <http://example.org/divvy#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+# ==========================================
+# Ontologie Divvy Bike Sharing
+# ==========================================
+
+<http://example.org/divvy>
+    rdf:type owl:Ontology ;
+    rdfs:label "Ontologie Divvy Bike Sharing"@fr ;
+    rdfs:comment "Ontologie décrivant les trajets Divvy, les stations, les périodes, les véhicules et les catégories d'utilisateurs."@fr .
+
+# ==========================================
+# 1. Classes
+# ==========================================
+
+:Station rdf:type owl:Class ;
+    rdfs:label "Station"@fr ;
+    rdfs:comment "Station de départ d'un trajet Divvy."@fr .
+
+:Periode rdf:type owl:Class ;
+    rdfs:label "Période"@fr ;
+    rdfs:comment "Période temporelle utilisée pour analyser les trajets."@fr .
+
+:TypeVehicule rdf:type owl:Class ;
+    rdfs:label "Type de véhicule"@fr ;
+    rdfs:comment "Type de vélo ou de scooter utilisé."@fr .
+
+:CategorieUtilisateur rdf:type owl:Class ;
+    rdfs:label "Catégorie d'utilisateur"@fr ;
+    rdfs:comment "Catégorie distinguant les utilisateurs occasionnels et les abonnés."@fr .
+
+:ObservationTrajets rdf:type owl:Class ;
+    rdfs:label "Observation de trajets"@fr ;
+    rdfs:comment "Agrégation des trajets pour une station, une période et un type de véhicule."@fr .
+
+:RepartitionCategorie rdf:type owl:Class ;
+    rdfs:label "Répartition par catégorie"@fr ;
+    rdfs:comment "Nombre de trajets associé à une catégorie d'utilisateur dans une observation."@fr .
+
+# ==========================================
+# 2. Relations entre les classes
+# ==========================================
+
+:concerneStation rdf:type owl:ObjectProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range :Station .
+
+:concernePeriode rdf:type owl:ObjectProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range :Periode .
+
+:concerneVehicule rdf:type owl:ObjectProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range :TypeVehicule .
+
+:possedeRepartition rdf:type owl:ObjectProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range :RepartitionCategorie .
+
+:concerneCategorie rdf:type owl:ObjectProperty ;
+    rdfs:domain :RepartitionCategorie ;
+    rdfs:range :CategorieUtilisateur .
+
+# ==========================================
+# 3. Attributs des stations
+# ==========================================
+
+:identifiantStation rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Station ;
+    rdfs:range xsd:string .
+
+:nomStation rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Station ;
+    rdfs:range xsd:string .
+
+# ==========================================
+# 4. Attributs des périodes
+# ==========================================
+
+:annee rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Periode ;
+    rdfs:range xsd:integer .
+
+:mois rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Periode ;
+    rdfs:range xsd:integer .
+
+:jourSemaine rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Periode ;
+    rdfs:range xsd:integer .
+
+:heure rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Periode ;
+    rdfs:range xsd:integer .
+
+# ==========================================
+# 5. Attributs des observations
+# ==========================================
+
+:nombreTotalTrajets rdf:type owl:DatatypeProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range xsd:integer .
+
+:nombreTrajetsOccasionnels rdf:type owl:DatatypeProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range xsd:integer .
+
+:nombreTrajetsAbonnes rdf:type owl:DatatypeProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range xsd:integer .
+
+:partOccasionnelle rdf:type owl:DatatypeProperty ;
+    rdfs:domain :ObservationTrajets ;
+    rdfs:range xsd:decimal .
+
+:nombreTrajetsCategorie rdf:type owl:DatatypeProperty ;
+    rdfs:domain :RepartitionCategorie ;
+    rdfs:range xsd:integer .
+
+# ==========================================
+# 6. Catégories d'utilisateurs
+# ==========================================
+
+:Occasionnel rdf:type :CategorieUtilisateur ;
+    rdfs:label "Utilisateur occasionnel"@fr .
+
+:Abonne rdf:type :CategorieUtilisateur ;
+    rdfs:label "Utilisateur abonné"@fr .
+
+# ==========================================
+# 7. Types de véhicules
+# ==========================================
+
+:VeloClassique rdf:type :TypeVehicule ;
+    rdfs:label "Vélo classique"@fr .
+
+:VeloElectrique rdf:type :TypeVehicule ;
+    rdfs:label "Vélo électrique"@fr .
+
+:ScooterElectrique rdf:type :TypeVehicule ;
+    rdfs:label "Scooter électrique"@fr .

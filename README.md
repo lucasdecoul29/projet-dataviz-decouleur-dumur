@@ -115,3 +115,16 @@ Les principales règles appliquées sont :
 Au total, 891 lignes ont été supprimées :
 211 doublons et 680 trajets présentant une durée invalide.
 La couche Silver contient 11 412 671 trajets.
+
+## Couche Gold — Agrégation et préparation décisionnelle
+
+## Objectif
+
+La couche Gold transforme les données nettoyées de Silver en tables agrégées destinées à répondre à la problématique :
+
+« Dans quelles stations et à quelles périodes concentrer les campagnes de conversion des utilisateurs occasionnels ? »
+
+Deux tables sont construites :
+- gold_station_period : analyse des trajets par station et période.
+- gold_monthly_overview : évolution globale des trajets par mois.
+- gold_station_ranking : classement des stations selon le volume de trajets occasionnels et leur part dans le trafic total. Un seuil minimal de 500 trajets sur la période étudiée est appliqué pour limiter les effets des faibles volumes.
