@@ -1,0 +1,14 @@
+PREFIX divvy: <http://example.org/divvy#>
+
+SELECT ?jour ?heure ?trajetsOccasionnels ?totalTrajets
+WHERE {
+    ?observation a divvy:ObservationTrajets ;
+                 divvy:concernePeriode ?periode ;
+                 divvy:nombreTrajetsOccasionnels ?trajetsOccasionnels ;
+                 divvy:nombreTotalTrajets ?totalTrajets .
+
+    ?periode divvy:jourSemaine ?jour ;
+             divvy:heure ?heure .
+}
+ORDER BY DESC(?trajetsOccasionnels)
+LIMIT 10

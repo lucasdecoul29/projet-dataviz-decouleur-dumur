@@ -1,0 +1,14 @@
+PREFIX divvy: <http://example.org/divvy#>
+
+SELECT ?nomStation ?totalTrajets ?trajetsOccasionnels ?partOccasionnelle
+WHERE {
+    ?observation a divvy:ObservationTrajets ;
+                 divvy:concerneStation ?station ;
+                 divvy:nombreTotalTrajets ?totalTrajets ;
+                 divvy:nombreTrajetsOccasionnels ?trajetsOccasionnels ;
+                 divvy:partOccasionnelle ?partOccasionnelle .
+
+    ?station divvy:nomStation ?nomStation .
+}
+ORDER BY DESC(?trajetsOccasionnels)
+LIMIT 10

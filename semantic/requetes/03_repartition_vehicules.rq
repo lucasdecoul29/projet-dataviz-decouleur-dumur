@@ -1,0 +1,12 @@
+PREFIX divvy: <http://example.org/divvy#>
+
+SELECT ?vehicule ?categorie ?nombreTrajets
+WHERE {
+    ?observation a divvy:ObservationTrajets ;
+                 divvy:concerneVehicule ?vehicule ;
+                 divvy:possedeRepartition ?repartition .
+
+    ?repartition divvy:concerneCategorie ?categorie ;
+                 divvy:nombreTrajetsCategorie ?nombreTrajets .
+}
+ORDER BY ?vehicule ?categorie
