@@ -101,16 +101,16 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13006__LaSalle%20St%20%26%20Washington%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13006__LaSalle%20St%20%26%20Washington%20St> ;
-    divvy:nombreTotalTrajets 11064 ;
+    divvy:nombreTotalTrajets 11066 ;
     divvy:nombreTrajetsAbonnes 8109 ;
-    divvy:nombreTrajetsOccasionnels 2955 ;
-    divvy:partOccasionnelle 26.71 .
+    divvy:nombreTrajetsOccasionnels 2957 ;
+    divvy:partOccasionnelle 26.72 .
 
 <http://example.org/divvy/observation/station/13008__Millennium%20Park> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13008__Millennium%20Park> ;
-    divvy:nombreTotalTrajets 39537 ;
-    divvy:nombreTrajetsAbonnes 12776 ;
-    divvy:nombreTrajetsOccasionnels 26761 ;
+    divvy:nombreTotalTrajets 39542 ;
+    divvy:nombreTrajetsAbonnes 12777 ;
+    divvy:nombreTrajetsOccasionnels 26765 ;
     divvy:partOccasionnelle 67.69 .
 
 <http://example.org/divvy/observation/station/13011__Canal%20St%20%26%20Adams%20St> a divvy:ObservationTrajets ;
@@ -136,16 +136,16 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13021__Clinton%20St%20%26%20Lake%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13021__Clinton%20St%20%26%20Lake%20St> ;
-    divvy:nombreTotalTrajets 26289 ;
-    divvy:nombreTrajetsAbonnes 19903 ;
+    divvy:nombreTotalTrajets 26290 ;
+    divvy:nombreTrajetsAbonnes 19904 ;
     divvy:nombreTrajetsOccasionnels 6386 ;
     divvy:partOccasionnelle 24.29 .
 
 <http://example.org/divvy/observation/station/13022__Streeter%20Dr%20%26%20Grand%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13022__Streeter%20Dr%20%26%20Grand%20Ave> ;
-    divvy:nombreTotalTrajets 77318 ;
+    divvy:nombreTotalTrajets 77320 ;
     divvy:nombreTrajetsAbonnes 17805 ;
-    divvy:nombreTrajetsOccasionnels 59513 ;
+    divvy:nombreTrajetsOccasionnels 59515 ;
     divvy:partOccasionnelle 76.97 .
 
 <http://example.org/divvy/observation/station/13028__900%20W%20Harrison%20St> a divvy:ObservationTrajets ;
@@ -185,10 +185,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13037__Clinton%20St%20%26%20Tilden%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13037__Clinton%20St%20%26%20Tilden%20St> ;
-    divvy:nombreTotalTrajets 9007 ;
+    divvy:nombreTotalTrajets 9008 ;
     divvy:nombreTrajetsAbonnes 6657 ;
-    divvy:nombreTrajetsOccasionnels 2350 ;
-    divvy:partOccasionnelle 26.09 .
+    divvy:nombreTrajetsOccasionnels 2351 ;
+    divvy:partOccasionnelle 26.10 .
 
 <http://example.org/divvy/observation/station/13042__Michigan%20Ave%20%26%20Oak%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13042__Michigan%20Ave%20%26%20Oak%20St> ;
@@ -199,15 +199,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13045__Dearborn%20St%20%26%20Erie%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13045__Dearborn%20St%20%26%20Erie%20St> ;
-    divvy:nombreTotalTrajets 34058 ;
-    divvy:nombreTrajetsAbonnes 24211 ;
-    divvy:nombreTrajetsOccasionnels 9847 ;
+    divvy:nombreTotalTrajets 34060 ;
+    divvy:nombreTrajetsAbonnes 24212 ;
+    divvy:nombreTrajetsOccasionnels 9848 ;
     divvy:partOccasionnelle 28.91 .
 
 <http://example.org/divvy/observation/station/13050__State%20St%20%26%20Kinzie%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13050__State%20St%20%26%20Kinzie%20St> ;
-    divvy:nombreTotalTrajets 18956 ;
-    divvy:nombreTrajetsAbonnes 12181 ;
+    divvy:nombreTotalTrajets 18957 ;
+    divvy:nombreTrajetsAbonnes 12182 ;
     divvy:nombreTrajetsOccasionnels 6775 ;
     divvy:partOccasionnelle 35.74 .
 
@@ -227,8 +227,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13058__Dayton%20St%20%26%20North%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13058__Dayton%20St%20%26%20North%20Ave> ;
-    divvy:nombreTotalTrajets 15353 ;
-    divvy:nombreTrajetsAbonnes 10378 ;
+    divvy:nombreTotalTrajets 15354 ;
+    divvy:nombreTrajetsAbonnes 10379 ;
     divvy:nombreTrajetsOccasionnels 4975 ;
     divvy:partOccasionnelle 32.40 .
 
@@ -248,8 +248,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13063__Sheridan%20Rd%20%26%20Irving%20Park%20Rd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13063__Sheridan%20Rd%20%26%20Irving%20Park%20Rd> ;
-    divvy:nombreTotalTrajets 19345 ;
-    divvy:nombreTrajetsAbonnes 13648 ;
+    divvy:nombreTotalTrajets 19346 ;
+    divvy:nombreTrajetsAbonnes 13649 ;
     divvy:nombreTrajetsOccasionnels 5697 ;
     divvy:partOccasionnelle 29.45 .
 
@@ -269,8 +269,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13071__Southport%20Ave%20%26%20Roscoe%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13071__Southport%20Ave%20%26%20Roscoe%20St> ;
-    divvy:nombreTotalTrajets 20060 ;
-    divvy:nombreTrajetsAbonnes 13344 ;
+    divvy:nombreTotalTrajets 20061 ;
+    divvy:nombreTrajetsAbonnes 13345 ;
     divvy:nombreTrajetsOccasionnels 6716 ;
     divvy:partOccasionnelle 33.48 .
 
@@ -311,16 +311,16 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13084__California%20Ave%20%26%20Milwaukee%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13084__California%20Ave%20%26%20Milwaukee%20Ave> ;
-    divvy:nombreTotalTrajets 14760 ;
+    divvy:nombreTotalTrajets 14762 ;
     divvy:nombreTrajetsAbonnes 9201 ;
-    divvy:nombreTrajetsOccasionnels 5559 ;
-    divvy:partOccasionnelle 37.66 .
+    divvy:nombreTrajetsOccasionnels 5561 ;
+    divvy:partOccasionnelle 37.67 .
 
 <http://example.org/divvy/observation/station/13085__Kedzie%20Ave%20%26%20Milwaukee%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13085__Kedzie%20Ave%20%26%20Milwaukee%20Ave> ;
-    divvy:nombreTotalTrajets 13033 ;
-    divvy:nombreTrajetsAbonnes 7987 ;
-    divvy:nombreTrajetsOccasionnels 5046 ;
+    divvy:nombreTotalTrajets 13036 ;
+    divvy:nombreTrajetsAbonnes 7988 ;
+    divvy:nombreTrajetsOccasionnels 5048 ;
     divvy:partOccasionnelle 38.72 .
 
 <http://example.org/divvy/observation/station/13089__Damen%20Ave%20%26%20Cullerton%20St> a divvy:ObservationTrajets ;
@@ -395,10 +395,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13132__Damen%20Ave%20%26%20Chicago%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13132__Damen%20Ave%20%26%20Chicago%20Ave> ;
-    divvy:nombreTotalTrajets 12714 ;
-    divvy:nombreTrajetsAbonnes 8885 ;
+    divvy:nombreTotalTrajets 12715 ;
+    divvy:nombreTrajetsAbonnes 8886 ;
     divvy:nombreTrajetsOccasionnels 3829 ;
-    divvy:partOccasionnelle 30.12 .
+    divvy:partOccasionnelle 30.11 .
 
 <http://example.org/divvy/observation/station/13133__Damen%20Ave%20%26%20Cortland%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13133__Damen%20Ave%20%26%20Cortland%20St> ;
@@ -423,10 +423,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13136__Damen%20Ave%20%26%20Division%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13136__Damen%20Ave%20%26%20Division%20St> ;
-    divvy:nombreTotalTrajets 11030 ;
-    divvy:nombreTrajetsAbonnes 7579 ;
+    divvy:nombreTotalTrajets 11031 ;
+    divvy:nombreTrajetsAbonnes 7580 ;
     divvy:nombreTrajetsOccasionnels 3451 ;
-    divvy:partOccasionnelle 31.29 .
+    divvy:partOccasionnelle 31.28 .
 
 <http://example.org/divvy/observation/station/13137__Broadway%20%26%20Barry%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13137__Broadway%20%26%20Barry%20Ave> ;
@@ -437,8 +437,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13138__Canal%20St%20%26%20Jackson%20Blvd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13138__Canal%20St%20%26%20Jackson%20Blvd> ;
-    divvy:nombreTotalTrajets 16145 ;
-    divvy:nombreTrajetsAbonnes 12574 ;
+    divvy:nombreTotalTrajets 16146 ;
+    divvy:nombreTrajetsAbonnes 12575 ;
     divvy:nombreTrajetsOccasionnels 3571 ;
     divvy:partOccasionnelle 22.12 .
 
@@ -479,9 +479,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13154__Sheffield%20Ave%20%26%20Kingsbury%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13154__Sheffield%20Ave%20%26%20Kingsbury%20St> ;
-    divvy:nombreTotalTrajets 16205 ;
+    divvy:nombreTotalTrajets 16206 ;
     divvy:nombreTrajetsAbonnes 11940 ;
-    divvy:nombreTrajetsOccasionnels 4265 ;
+    divvy:nombreTrajetsOccasionnels 4266 ;
     divvy:partOccasionnelle 26.32 .
 
 <http://example.org/divvy/observation/station/13155__Racine%20Ave%20%26%20Randolph%20St> a divvy:ObservationTrajets ;
@@ -563,15 +563,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13192__Halsted%20St%20%26%20Dickens%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13192__Halsted%20St%20%26%20Dickens%20Ave> ;
-    divvy:nombreTotalTrajets 16528 ;
-    divvy:nombreTrajetsAbonnes 10951 ;
+    divvy:nombreTotalTrajets 16529 ;
+    divvy:nombreTrajetsAbonnes 10952 ;
     divvy:nombreTrajetsOccasionnels 5577 ;
     divvy:partOccasionnelle 33.74 .
 
 <http://example.org/divvy/observation/station/13193__Larrabee%20St%20%26%20Webster%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13193__Larrabee%20St%20%26%20Webster%20Ave> ;
-    divvy:nombreTotalTrajets 21735 ;
-    divvy:nombreTrajetsAbonnes 13525 ;
+    divvy:nombreTotalTrajets 21736 ;
+    divvy:nombreTrajetsAbonnes 13526 ;
     divvy:nombreTrajetsOccasionnels 8210 ;
     divvy:partOccasionnelle 37.77 .
 
@@ -619,15 +619,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13215__Rhodes%20Ave%20%26%2032nd%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13215__Rhodes%20Ave%20%26%2032nd%20St> ;
-    divvy:nombreTotalTrajets 9642 ;
-    divvy:nombreTrajetsAbonnes 8858 ;
+    divvy:nombreTotalTrajets 9643 ;
+    divvy:nombreTrajetsAbonnes 8859 ;
     divvy:nombreTrajetsOccasionnels 784 ;
     divvy:partOccasionnelle 8.13 .
 
 <http://example.org/divvy/observation/station/13216__State%20St%20%26%2033rd%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13216__State%20St%20%26%2033rd%20St> ;
-    divvy:nombreTotalTrajets 18196 ;
-    divvy:nombreTrajetsAbonnes 16338 ;
+    divvy:nombreTotalTrajets 18198 ;
+    divvy:nombreTrajetsAbonnes 16340 ;
     divvy:nombreTrajetsOccasionnels 1858 ;
     divvy:partOccasionnelle 10.21 .
 
@@ -640,8 +640,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13221__Wood%20St%20%26%20Milwaukee%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13221__Wood%20St%20%26%20Milwaukee%20Ave> ;
-    divvy:nombreTotalTrajets 15736 ;
-    divvy:nombreTrajetsAbonnes 10870 ;
+    divvy:nombreTotalTrajets 15737 ;
+    divvy:nombreTrajetsAbonnes 10871 ;
     divvy:nombreTrajetsOccasionnels 4866 ;
     divvy:partOccasionnelle 30.92 .
 
@@ -682,10 +682,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13242__Milwaukee%20Ave%20%26%20Rockwell%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13242__Milwaukee%20Ave%20%26%20Rockwell%20St> ;
-    divvy:nombreTotalTrajets 4947 ;
-    divvy:nombreTrajetsAbonnes 2944 ;
+    divvy:nombreTotalTrajets 4948 ;
+    divvy:nombreTrajetsAbonnes 2945 ;
     divvy:nombreTrajetsOccasionnels 2003 ;
-    divvy:partOccasionnelle 40.49 .
+    divvy:partOccasionnelle 40.48 .
 
 <http://example.org/divvy/observation/station/13243__Milwaukee%20Ave%20%26%20Wabansia%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13243__Milwaukee%20Ave%20%26%20Wabansia%20Ave> ;
@@ -752,16 +752,16 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13259__California%20Ave%20%26%20Francis%20Pl> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13259__California%20Ave%20%26%20Francis%20Pl> ;
-    divvy:nombreTotalTrajets 6087 ;
+    divvy:nombreTotalTrajets 6088 ;
     divvy:nombreTrajetsAbonnes 3884 ;
-    divvy:nombreTrajetsOccasionnels 2203 ;
-    divvy:partOccasionnelle 36.19 .
+    divvy:nombreTrajetsOccasionnels 2204 ;
+    divvy:partOccasionnelle 36.20 .
 
 <http://example.org/divvy/observation/station/13263__Columbus%20Dr%20%26%20Randolph%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13263__Columbus%20Dr%20%26%20Randolph%20St> ;
-    divvy:nombreTotalTrajets 27988 ;
+    divvy:nombreTotalTrajets 27990 ;
     divvy:nombreTrajetsAbonnes 17031 ;
-    divvy:nombreTrajetsOccasionnels 10957 ;
+    divvy:nombreTrajetsOccasionnels 10959 ;
     divvy:partOccasionnelle 39.15 .
 
 <http://example.org/divvy/observation/station/13265__Kingsbury%20St%20%26%20Erie%20St> a divvy:ObservationTrajets ;
@@ -815,9 +815,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13278__Broadway%20%26%20Cornelia%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13278__Broadway%20%26%20Cornelia%20Ave> ;
-    divvy:nombreTotalTrajets 24805 ;
+    divvy:nombreTotalTrajets 24806 ;
     divvy:nombreTrajetsAbonnes 17156 ;
-    divvy:nombreTrajetsOccasionnels 7649 ;
+    divvy:nombreTrajetsOccasionnels 7650 ;
     divvy:partOccasionnelle 30.84 .
 
 <http://example.org/divvy/observation/station/13285__Wood%20St%20%26%20Taylor%20St%20%28Temp%29> a divvy:ObservationTrajets ;
@@ -850,10 +850,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13292__Kedzie%20Ave%20%26%20Palmer%20Ct> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13292__Kedzie%20Ave%20%26%20Palmer%20Ct> ;
-    divvy:nombreTotalTrajets 5946 ;
+    divvy:nombreTotalTrajets 5948 ;
     divvy:nombreTrajetsAbonnes 3865 ;
-    divvy:nombreTrajetsOccasionnels 2081 ;
-    divvy:partOccasionnelle 35.00 .
+    divvy:nombreTrajetsOccasionnels 2083 ;
+    divvy:partOccasionnelle 35.02 .
 
 <http://example.org/divvy/observation/station/13294__Greenview%20Ave%20%26%20Diversey%20Pkwy> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13294__Greenview%20Ave%20%26%20Diversey%20Pkwy> ;
@@ -906,8 +906,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13323__Broadway%20%26%20Sheridan%20Rd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13323__Broadway%20%26%20Sheridan%20Rd> ;
-    divvy:nombreTotalTrajets 17674 ;
-    divvy:nombreTrajetsAbonnes 12849 ;
+    divvy:nombreTotalTrajets 17675 ;
+    divvy:nombreTrajetsAbonnes 12850 ;
     divvy:nombreTrajetsOccasionnels 4825 ;
     divvy:partOccasionnelle 27.30 .
 
@@ -1018,15 +1018,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/13427__Cityfront%20Plaza%20Dr%20%26%20Pioneer%20Ct> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13427__Cityfront%20Plaza%20Dr%20%26%20Pioneer%20Ct> ;
-    divvy:nombreTotalTrajets 18501 ;
-    divvy:nombreTrajetsAbonnes 10132 ;
-    divvy:nombreTrajetsOccasionnels 8369 ;
+    divvy:nombreTotalTrajets 18503 ;
+    divvy:nombreTrajetsAbonnes 10133 ;
+    divvy:nombreTrajetsOccasionnels 8370 ;
     divvy:partOccasionnelle 45.24 .
 
 <http://example.org/divvy/observation/station/13430__LaSalle%20St%20%26%20Illinois%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/13430__LaSalle%20St%20%26%20Illinois%20St> ;
-    divvy:nombreTotalTrajets 29424 ;
-    divvy:nombreTrajetsAbonnes 17752 ;
+    divvy:nombreTotalTrajets 29425 ;
+    divvy:nombreTrajetsAbonnes 17753 ;
     divvy:nombreTrajetsOccasionnels 11672 ;
     divvy:partOccasionnelle 39.67 .
 
@@ -1130,9 +1130,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/15541.1.1__Buckingham%20Fountain> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/15541.1.1__Buckingham%20Fountain> ;
-    divvy:nombreTotalTrajets 17672 ;
+    divvy:nombreTotalTrajets 17675 ;
     divvy:nombreTrajetsAbonnes 4113 ;
-    divvy:nombreTrajetsOccasionnels 13559 ;
+    divvy:nombreTrajetsOccasionnels 13562 ;
     divvy:partOccasionnelle 76.73 .
 
 <http://example.org/divvy/observation/station/15542__Clinton%20St%20%26%20Polk%20St> a divvy:ObservationTrajets ;
@@ -1172,9 +1172,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/15571__Broadway%20%26%20Granville%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/15571__Broadway%20%26%20Granville%20Ave> ;
-    divvy:nombreTotalTrajets 8400 ;
+    divvy:nombreTotalTrajets 8401 ;
     divvy:nombreTrajetsAbonnes 5430 ;
-    divvy:nombreTrajetsOccasionnels 2970 ;
+    divvy:nombreTrajetsOccasionnels 2971 ;
     divvy:partOccasionnelle 35.36 .
 
 <http://example.org/divvy/observation/station/15575__Broadway%20%26%20Thorndale%20Ave> a divvy:ObservationTrajets ;
@@ -1193,10 +1193,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/15578__Broadway%20%26%20Ridge%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/15578__Broadway%20%26%20Ridge%20Ave> ;
-    divvy:nombreTotalTrajets 6486 ;
+    divvy:nombreTotalTrajets 6487 ;
     divvy:nombreTrajetsAbonnes 4522 ;
-    divvy:nombreTrajetsOccasionnels 1964 ;
-    divvy:partOccasionnelle 30.28 .
+    divvy:nombreTrajetsOccasionnels 1965 ;
+    divvy:partOccasionnelle 30.29 .
 
 <http://example.org/divvy/observation/station/15585__Budlong%20Woods%20Library> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/15585__Budlong%20Woods%20Library> ;
@@ -1263,10 +1263,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/15634__Western%20Ave%20%26%20Roscoe%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/15634__Western%20Ave%20%26%20Roscoe%20St> ;
-    divvy:nombreTotalTrajets 3596 ;
+    divvy:nombreTotalTrajets 3597 ;
     divvy:nombreTrajetsAbonnes 2521 ;
-    divvy:nombreTrajetsOccasionnels 1075 ;
-    divvy:partOccasionnelle 29.89 .
+    divvy:nombreTrajetsOccasionnels 1076 ;
+    divvy:partOccasionnelle 29.91 .
 
 <http://example.org/divvy/observation/station/15640__Avers%20Ave%20%26%20Belmont%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/15640__Avers%20Ave%20%26%20Belmont%20Ave> ;
@@ -1452,10 +1452,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/18003__Fairbanks%20St%20%26%20Superior%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/18003__Fairbanks%20St%20%26%20Superior%20St> ;
-    divvy:nombreTotalTrajets 9680 ;
+    divvy:nombreTotalTrajets 9681 ;
     divvy:nombreTrajetsAbonnes 7005 ;
-    divvy:nombreTrajetsOccasionnels 2675 ;
-    divvy:partOccasionnelle 27.63 .
+    divvy:nombreTrajetsOccasionnels 2676 ;
+    divvy:partOccasionnelle 27.64 .
 
 <http://example.org/divvy/observation/station/18016__Bernard%20St%20%26%20Elston%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/18016__Bernard%20St%20%26%20Elston%20Ave> ;
@@ -1522,10 +1522,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/20246.0__N%20Green%20St%20%26%20W%20Lake%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/20246.0__N%20Green%20St%20%26%20W%20Lake%20St> ;
-    divvy:nombreTotalTrajets 8697 ;
-    divvy:nombreTrajetsAbonnes 5735 ;
+    divvy:nombreTotalTrajets 8698 ;
+    divvy:nombreTrajetsAbonnes 5736 ;
     divvy:nombreTrajetsOccasionnels 2962 ;
-    divvy:partOccasionnelle 34.06 .
+    divvy:partOccasionnelle 34.05 .
 
 <http://example.org/divvy/observation/station/20247.0__W%20Washington%20Blvd%20%26%20N%20Peoria%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/20247.0__W%20Washington%20Blvd%20%26%20N%20Peoria%20St> ;
@@ -1718,10 +1718,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/23003__Halsted%20St%20%26%20Fulton%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/23003__Halsted%20St%20%26%20Fulton%20St> ;
-    divvy:nombreTotalTrajets 27046 ;
+    divvy:nombreTotalTrajets 27047 ;
     divvy:nombreTrajetsAbonnes 18098 ;
-    divvy:nombreTrajetsOccasionnels 8948 ;
-    divvy:partOccasionnelle 33.08 .
+    divvy:nombreTrajetsOccasionnels 8949 ;
+    divvy:partOccasionnelle 33.09 .
 
 <http://example.org/divvy/observation/station/23101__McCormick%20Blvd%20%26%20Devon%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/23101__McCormick%20Blvd%20%26%20Devon%20Ave> ;
@@ -1837,9 +1837,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/331__Halsted%20St%20%26%20Clybourn%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/331__Halsted%20St%20%26%20Clybourn%20Ave> ;
-    divvy:nombreTotalTrajets 24635 ;
-    divvy:nombreTrajetsAbonnes 17400 ;
-    divvy:nombreTrajetsOccasionnels 7235 ;
+    divvy:nombreTotalTrajets 24638 ;
+    divvy:nombreTrajetsAbonnes 17402 ;
+    divvy:nombreTrajetsOccasionnels 7236 ;
     divvy:partOccasionnelle 29.37 .
 
 <http://example.org/divvy/observation/station/398__Long%20%26%20Irving%20Park> a divvy:ObservationTrajets ;
@@ -1879,10 +1879,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/428__Milwaukee%20Ave%20%26%20Fullerton%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/428__Milwaukee%20Ave%20%26%20Fullerton%20Ave> ;
-    divvy:nombreTotalTrajets 4855 ;
-    divvy:nombreTrajetsAbonnes 2557 ;
+    divvy:nombreTotalTrajets 4856 ;
+    divvy:nombreTrajetsAbonnes 2558 ;
     divvy:nombreTrajetsOccasionnels 2298 ;
-    divvy:partOccasionnelle 47.33 .
+    divvy:partOccasionnelle 47.32 .
 
 <http://example.org/divvy/observation/station/429__Francisco%20Ave%20%26%20Bloomingdale%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/429__Francisco%20Ave%20%26%20Bloomingdale%20Ave> ;
@@ -2075,10 +2075,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/527__Western%20Ave%20%26%20Howard%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/527__Western%20Ave%20%26%20Howard%20St> ;
-    divvy:nombreTotalTrajets 1512 ;
-    divvy:nombreTrajetsAbonnes 980 ;
+    divvy:nombreTotalTrajets 1513 ;
+    divvy:nombreTrajetsAbonnes 981 ;
     divvy:nombreTrajetsOccasionnels 532 ;
-    divvy:partOccasionnelle 35.19 .
+    divvy:partOccasionnelle 35.16 .
 
 <http://example.org/divvy/observation/station/590__Kilbourn%20Ave%20%26%20Irving%20Park%20Rd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/590__Kilbourn%20Ave%20%26%20Irving%20Park%20Rd> ;
@@ -2180,8 +2180,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/636__Orleans%20St%20%26%20Hubbard%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/636__Orleans%20St%20%26%20Hubbard%20St> ;
-    divvy:nombreTotalTrajets 11762 ;
-    divvy:nombreTrajetsAbonnes 8620 ;
+    divvy:nombreTotalTrajets 11764 ;
+    divvy:nombreTrajetsAbonnes 8622 ;
     divvy:nombreTrajetsOccasionnels 3142 ;
     divvy:partOccasionnelle 26.71 .
 
@@ -2243,10 +2243,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/657__Wood%20St%20%26%20Augusta%20Blvd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/657__Wood%20St%20%26%20Augusta%20Blvd> ;
-    divvy:nombreTotalTrajets 8191 ;
+    divvy:nombreTotalTrajets 8192 ;
     divvy:nombreTrajetsAbonnes 5958 ;
-    divvy:nombreTrajetsOccasionnels 2233 ;
-    divvy:partOccasionnelle 27.26 .
+    divvy:nombreTrajetsOccasionnels 2234 ;
+    divvy:partOccasionnelle 27.27 .
 
 <http://example.org/divvy/observation/station/658__Leavitt%20St%20%26%20Division%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/658__Leavitt%20St%20%26%20Division%20St> ;
@@ -6709,10 +6709,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/KA1503000027__Prairie%20Ave%20%26%2043rd%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1503000027__Prairie%20Ave%20%26%2043rd%20St> ;
-    divvy:nombreTotalTrajets 831 ;
+    divvy:nombreTotalTrajets 832 ;
     divvy:nombreTrajetsAbonnes 344 ;
-    divvy:nombreTrajetsOccasionnels 487 ;
-    divvy:partOccasionnelle 58.60 .
+    divvy:nombreTrajetsOccasionnels 488 ;
+    divvy:partOccasionnelle 58.65 .
 
 <http://example.org/divvy/observation/station/KA1503000029__South%20Shore%20Dr%20%26%2067th%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1503000029__South%20Shore%20Dr%20%26%2067th%20St> ;
@@ -6891,10 +6891,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/KA1504000078__Lincoln%20Ave%20%26%20Winona%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000078__Lincoln%20Ave%20%26%20Winona%20St> ;
-    divvy:nombreTotalTrajets 2493 ;
-    divvy:nombreTrajetsAbonnes 1771 ;
+    divvy:nombreTotalTrajets 2494 ;
+    divvy:nombreTrajetsAbonnes 1772 ;
     divvy:nombreTrajetsOccasionnels 722 ;
-    divvy:partOccasionnelle 28.96 .
+    divvy:partOccasionnelle 28.95 .
 
 <http://example.org/divvy/observation/station/KA1504000079__Larrabee%20St%20%26%20Division%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000079__Larrabee%20St%20%26%20Division%20St> ;
@@ -6996,10 +6996,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/KA1504000114__Kedzie%20Ave%20%26%20Chicago%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000114__Kedzie%20Ave%20%26%20Chicago%20Ave> ;
-    divvy:nombreTotalTrajets 741 ;
-    divvy:nombreTrajetsAbonnes 483 ;
+    divvy:nombreTotalTrajets 742 ;
+    divvy:nombreTrajetsAbonnes 484 ;
     divvy:nombreTrajetsOccasionnels 258 ;
-    divvy:partOccasionnelle 34.82 .
+    divvy:partOccasionnelle 34.77 .
 
 <http://example.org/divvy/observation/station/KA1504000116__Larrabee%20St%20%26%20Oak%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000116__Larrabee%20St%20%26%20Oak%20St> ;
@@ -7038,10 +7038,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/KA1504000129__Western%20Ave%20%26%20Granville%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000129__Western%20Ave%20%26%20Granville%20Ave> ;
-    divvy:nombreTotalTrajets 1413 ;
+    divvy:nombreTotalTrajets 1414 ;
     divvy:nombreTrajetsAbonnes 1018 ;
-    divvy:nombreTrajetsOccasionnels 395 ;
-    divvy:partOccasionnelle 27.95 .
+    divvy:nombreTrajetsOccasionnels 396 ;
+    divvy:partOccasionnelle 28.01 .
 
 <http://example.org/divvy/observation/station/KA1504000130__Maplewood%20Ave%20%26%20Peterson%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000130__Maplewood%20Ave%20%26%20Peterson%20Ave> ;
@@ -7108,8 +7108,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/KA1504000146__Clark%20St%20%26%20Berwyn%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000146__Clark%20St%20%26%20Berwyn%20Ave> ;
-    divvy:nombreTotalTrajets 14312 ;
-    divvy:nombreTrajetsAbonnes 9676 ;
+    divvy:nombreTotalTrajets 14313 ;
+    divvy:nombreTrajetsAbonnes 9677 ;
     divvy:nombreTrajetsOccasionnels 4636 ;
     divvy:partOccasionnelle 32.39 .
 
@@ -7129,15 +7129,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/KA1504000149__Damen%20Ave%20%26%20Foster%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000149__Damen%20Ave%20%26%20Foster%20Ave> ;
-    divvy:nombreTotalTrajets 5330 ;
+    divvy:nombreTotalTrajets 5331 ;
     divvy:nombreTrajetsAbonnes 3403 ;
-    divvy:nombreTrajetsOccasionnels 1927 ;
-    divvy:partOccasionnelle 36.15 .
+    divvy:nombreTrajetsOccasionnels 1928 ;
+    divvy:partOccasionnelle 36.17 .
 
 <http://example.org/divvy/observation/station/KA1504000151__Clark%20St%20%26%20Bryn%20Mawr%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/KA1504000151__Clark%20St%20%26%20Bryn%20Mawr%20Ave> ;
-    divvy:nombreTotalTrajets 9795 ;
-    divvy:nombreTrajetsAbonnes 6968 ;
+    divvy:nombreTotalTrajets 9796 ;
+    divvy:nombreTrajetsAbonnes 6969 ;
     divvy:nombreTrajetsOccasionnels 2827 ;
     divvy:partOccasionnelle 28.86 .
 
@@ -7262,9 +7262,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/LF-005__DuSable%20Lake%20Shore%20Dr%20%26%20North%20Blvd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/LF-005__DuSable%20Lake%20Shore%20Dr%20%26%20North%20Blvd> ;
-    divvy:nombreTotalTrajets 45359 ;
+    divvy:nombreTotalTrajets 45360 ;
     divvy:nombreTrajetsAbonnes 19249 ;
-    divvy:nombreTrajetsOccasionnels 26110 ;
+    divvy:nombreTrajetsOccasionnels 26111 ;
     divvy:partOccasionnelle 57.56 .
 
 <http://example.org/divvy/observation/station/LP-__Lincoln%20Park%20Conservatory> a divvy:ObservationTrajets ;
@@ -7395,8 +7395,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/SL-010__Financial%20Pl%20%26%20Ida%20B%20Wells%20Dr> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/SL-010__Financial%20Pl%20%26%20Ida%20B%20Wells%20Dr> ;
-    divvy:nombreTotalTrajets 12982 ;
-    divvy:nombreTrajetsAbonnes 9029 ;
+    divvy:nombreTotalTrajets 12983 ;
+    divvy:nombreTrajetsAbonnes 9030 ;
     divvy:nombreTrajetsOccasionnels 3953 ;
     divvy:partOccasionnelle 30.45 .
 
@@ -7465,8 +7465,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000006__Dearborn%20St%20%26%20Monroe%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000006__Dearborn%20St%20%26%20Monroe%20St> ;
-    divvy:nombreTotalTrajets 24862 ;
-    divvy:nombreTrajetsAbonnes 17621 ;
+    divvy:nombreTotalTrajets 24863 ;
+    divvy:nombreTrajetsAbonnes 17622 ;
     divvy:nombreTrajetsOccasionnels 7241 ;
     divvy:partOccasionnelle 29.12 .
 
@@ -7479,8 +7479,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000010__Michigan%20Ave%20%26%20Ida%20B%20Wells%20Dr> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000010__Michigan%20Ave%20%26%20Ida%20B%20Wells%20Dr> ;
-    divvy:nombreTotalTrajets 8831 ;
-    divvy:nombreTrajetsAbonnes 3661 ;
+    divvy:nombreTotalTrajets 8832 ;
+    divvy:nombreTrajetsAbonnes 3662 ;
     divvy:nombreTrajetsOccasionnels 5170 ;
     divvy:partOccasionnelle 58.54 .
 
@@ -7493,9 +7493,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000014__Clark%20St%20%26%20Wrightwood%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000014__Clark%20St%20%26%20Wrightwood%20Ave> ;
-    divvy:nombreTotalTrajets 24732 ;
+    divvy:nombreTotalTrajets 24733 ;
     divvy:nombreTrajetsAbonnes 16872 ;
-    divvy:nombreTrajetsOccasionnels 7860 ;
+    divvy:nombreTrajetsOccasionnels 7861 ;
     divvy:partOccasionnelle 31.78 .
 
 <http://example.org/divvy/observation/station/TA1305000017__Halsted%20St%20%26%20Roosevelt%20Rd> a divvy:ObservationTrajets ;
@@ -7507,9 +7507,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000020__Ogden%20Ave%20%26%20Chicago%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000020__Ogden%20Ave%20%26%20Chicago%20Ave> ;
-    divvy:nombreTotalTrajets 16162 ;
+    divvy:nombreTotalTrajets 16163 ;
     divvy:nombreTrajetsAbonnes 11023 ;
-    divvy:nombreTrajetsOccasionnels 5139 ;
+    divvy:nombreTrajetsOccasionnels 5140 ;
     divvy:partOccasionnelle 31.80 .
 
 <http://example.org/divvy/observation/station/TA1305000022__Orleans%20St%20%26%20Merchandise%20Mart%20Plaza> a divvy:ObservationTrajets ;
@@ -7542,15 +7542,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000032__Clinton%20St%20%26%20Madison%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000032__Clinton%20St%20%26%20Madison%20St> ;
-    divvy:nombreTotalTrajets 42333 ;
-    divvy:nombreTrajetsAbonnes 32411 ;
+    divvy:nombreTotalTrajets 42334 ;
+    divvy:nombreTrajetsAbonnes 32412 ;
     divvy:nombreTrajetsOccasionnels 9922 ;
     divvy:partOccasionnelle 23.44 .
 
 <http://example.org/divvy/observation/station/TA1305000034__Honore%20St%20%26%20Division%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000034__Honore%20St%20%26%20Division%20St> ;
-    divvy:nombreTotalTrajets 14558 ;
-    divvy:nombreTrajetsAbonnes 10306 ;
+    divvy:nombreTotalTrajets 14559 ;
+    divvy:nombreTrajetsAbonnes 10307 ;
     divvy:nombreTrajetsOccasionnels 4252 ;
     divvy:partOccasionnelle 29.21 .
 
@@ -7563,10 +7563,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000037__Paulina%20Ave%20%26%20North%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000037__Paulina%20Ave%20%26%20North%20Ave> ;
-    divvy:nombreTotalTrajets 9042 ;
+    divvy:nombreTotalTrajets 9043 ;
     divvy:nombreTrajetsAbonnes 6132 ;
-    divvy:nombreTrajetsOccasionnels 2910 ;
-    divvy:partOccasionnelle 32.18 .
+    divvy:nombreTrajetsOccasionnels 2911 ;
+    divvy:partOccasionnelle 32.19 .
 
 <http://example.org/divvy/observation/station/TA1305000039__Elston%20Ave%20%26%20Cortland%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000039__Elston%20Ave%20%26%20Cortland%20St> ;
@@ -7577,9 +7577,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1305000041__Damen%20Ave%20%26%20Pierce%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1305000041__Damen%20Ave%20%26%20Pierce%20Ave> ;
-    divvy:nombreTotalTrajets 22556 ;
+    divvy:nombreTotalTrajets 22557 ;
     divvy:nombreTrajetsAbonnes 14880 ;
-    divvy:nombreTrajetsOccasionnels 7676 ;
+    divvy:nombreTrajetsOccasionnels 7677 ;
     divvy:partOccasionnelle 34.03 .
 
 <http://example.org/divvy/observation/station/TA1306000002__Morgan%20Ave%20%26%2014th%20Pl> a divvy:ObservationTrajets ;
@@ -7626,8 +7626,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1306000010__Daley%20Center%20Plaza> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1306000010__Daley%20Center%20Plaza> ;
-    divvy:nombreTotalTrajets 28142 ;
-    divvy:nombreTrajetsAbonnes 20388 ;
+    divvy:nombreTotalTrajets 28143 ;
+    divvy:nombreTrajetsAbonnes 20389 ;
     divvy:nombreTrajetsOccasionnels 7754 ;
     divvy:partOccasionnelle 27.55 .
 
@@ -7668,9 +7668,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1306000016__Sheffield%20Ave%20%26%20Fullerton%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1306000016__Sheffield%20Ave%20%26%20Fullerton%20Ave> ;
-    divvy:nombreTotalTrajets 25865 ;
+    divvy:nombreTotalTrajets 25866 ;
     divvy:nombreTrajetsAbonnes 17981 ;
-    divvy:nombreTrajetsOccasionnels 7884 ;
+    divvy:nombreTrajetsOccasionnels 7885 ;
     divvy:partOccasionnelle 30.48 .
 
 <http://example.org/divvy/observation/station/TA1306000025__Racine%20Ave%20%26%20Congress%20Pkwy> a divvy:ObservationTrajets ;
@@ -7689,17 +7689,17 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1306000029__McClurg%20Ct%20%26%20Ohio%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1306000029__McClurg%20Ct%20%26%20Ohio%20St> ;
-    divvy:nombreTotalTrajets 27804 ;
+    divvy:nombreTotalTrajets 27805 ;
     divvy:nombreTrajetsAbonnes 17420 ;
-    divvy:nombreTrajetsOccasionnels 10384 ;
+    divvy:nombreTrajetsOccasionnels 10385 ;
     divvy:partOccasionnelle 37.35 .
 
 <http://example.org/divvy/observation/station/TA1306000032__Sheffield%20Ave%20%26%20Willow%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1306000032__Sheffield%20Ave%20%26%20Willow%20St> ;
-    divvy:nombreTotalTrajets 11122 ;
+    divvy:nombreTotalTrajets 11123 ;
     divvy:nombreTrajetsAbonnes 8192 ;
-    divvy:nombreTrajetsOccasionnels 2930 ;
-    divvy:partOccasionnelle 26.34 .
+    divvy:nombreTrajetsOccasionnels 2931 ;
+    divvy:partOccasionnelle 26.35 .
 
 <http://example.org/divvy/observation/station/TA1307000001__Greenview%20Ave%20%26%20Fullerton%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000001__Greenview%20Ave%20%26%20Fullerton%20Ave> ;
@@ -7724,16 +7724,16 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000038__Sedgwick%20St%20%26%20North%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000038__Sedgwick%20St%20%26%20North%20Ave> ;
-    divvy:nombreTotalTrajets 16629 ;
+    divvy:nombreTotalTrajets 16630 ;
     divvy:nombreTrajetsAbonnes 10883 ;
-    divvy:nombreTrajetsOccasionnels 5746 ;
-    divvy:partOccasionnelle 34.55 .
+    divvy:nombreTrajetsOccasionnels 5747 ;
+    divvy:partOccasionnelle 34.56 .
 
 <http://example.org/divvy/observation/station/TA1307000039__Clark%20St%20%26%20Elm%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000039__Clark%20St%20%26%20Elm%20St> ;
-    divvy:nombreTotalTrajets 44421 ;
-    divvy:nombreTrajetsAbonnes 31614 ;
-    divvy:nombreTrajetsOccasionnels 12807 ;
+    divvy:nombreTotalTrajets 44424 ;
+    divvy:nombreTrajetsAbonnes 31616 ;
+    divvy:nombreTrajetsOccasionnels 12808 ;
     divvy:partOccasionnelle 28.83 .
 
 <http://example.org/divvy/observation/station/TA1307000041__DuSable%20Lake%20Shore%20Dr%20%26%20Wellington%20Ave> a divvy:ObservationTrajets ;
@@ -7759,10 +7759,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000052__Sheffield%20Ave%20%26%20Wellington%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000052__Sheffield%20Ave%20%26%20Wellington%20Ave> ;
-    divvy:nombreTotalTrajets 18219 ;
-    divvy:nombreTrajetsAbonnes 12703 ;
+    divvy:nombreTotalTrajets 18220 ;
+    divvy:nombreTrajetsAbonnes 12704 ;
     divvy:nombreTrajetsOccasionnels 5516 ;
-    divvy:partOccasionnelle 30.28 .
+    divvy:partOccasionnelle 30.27 .
 
 <http://example.org/divvy/observation/station/TA1307000061__State%20St%20%26%20Pearson%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000061__State%20St%20%26%20Pearson%20St> ;
@@ -7780,10 +7780,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000064__Lincoln%20Ave%20%26%20Diversey%20Pkwy> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000064__Lincoln%20Ave%20%26%20Diversey%20Pkwy> ;
-    divvy:nombreTotalTrajets 13775 ;
+    divvy:nombreTotalTrajets 13776 ;
     divvy:nombreTrajetsAbonnes 9281 ;
-    divvy:nombreTrajetsOccasionnels 4494 ;
-    divvy:partOccasionnelle 32.62 .
+    divvy:nombreTrajetsOccasionnels 4495 ;
+    divvy:partOccasionnelle 32.63 .
 
 <http://example.org/divvy/observation/station/TA1307000070__Damen%20Ave%20%26%20Thomas%20St%20%28Augusta%20Blvd%29> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000070__Damen%20Ave%20%26%20Thomas%20St%20%28Augusta%20Blvd%29> ;
@@ -7794,9 +7794,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000107__Sheridan%20Rd%20%26%20Montrose%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000107__Sheridan%20Rd%20%26%20Montrose%20Ave> ;
-    divvy:nombreTotalTrajets 17089 ;
+    divvy:nombreTotalTrajets 17090 ;
     divvy:nombreTrajetsAbonnes 11928 ;
-    divvy:nombreTrajetsOccasionnels 5161 ;
+    divvy:nombreTrajetsOccasionnels 5162 ;
     divvy:partOccasionnelle 30.20 .
 
 <http://example.org/divvy/observation/station/TA1307000111__Franklin%20St%20%26%20Lake%20St> a divvy:ObservationTrajets ;
@@ -7808,10 +7808,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000113__Southport%20Ave%20%26%20Wrightwood%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000113__Southport%20Ave%20%26%20Wrightwood%20Ave> ;
-    divvy:nombreTotalTrajets 12975 ;
+    divvy:nombreTotalTrajets 12976 ;
     divvy:nombreTrajetsAbonnes 8858 ;
-    divvy:nombreTrajetsOccasionnels 4117 ;
-    divvy:partOccasionnelle 31.73 .
+    divvy:nombreTrajetsOccasionnels 4118 ;
+    divvy:partOccasionnelle 31.74 .
 
 <http://example.org/divvy/observation/station/TA1307000115__Clybourn%20Ave%20%26%20Division%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000115__Clybourn%20Ave%20%26%20Division%20St> ;
@@ -7836,8 +7836,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000120__Green%20St%20%26%20Madison%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000120__Green%20St%20%26%20Madison%20St> ;
-    divvy:nombreTotalTrajets 25472 ;
-    divvy:nombreTrajetsAbonnes 18659 ;
+    divvy:nombreTotalTrajets 25473 ;
+    divvy:nombreTrajetsAbonnes 18660 ;
     divvy:nombreTrajetsOccasionnels 6813 ;
     divvy:partOccasionnelle 26.75 .
 
@@ -7850,17 +7850,17 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000124__Michigan%20Ave%20%26%2014th%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000124__Michigan%20Ave%20%26%2014th%20St> ;
-    divvy:nombreTotalTrajets 15933 ;
-    divvy:nombreTrajetsAbonnes 10644 ;
+    divvy:nombreTotalTrajets 15934 ;
+    divvy:nombreTrajetsAbonnes 10645 ;
     divvy:nombreTrajetsOccasionnels 5289 ;
-    divvy:partOccasionnelle 33.20 .
+    divvy:partOccasionnelle 33.19 .
 
 <http://example.org/divvy/observation/station/TA1307000126__Sheffield%20Ave%20%26%20Waveland%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000126__Sheffield%20Ave%20%26%20Waveland%20Ave> ;
-    divvy:nombreTotalTrajets 21078 ;
+    divvy:nombreTotalTrajets 21079 ;
     divvy:nombreTrajetsAbonnes 12513 ;
-    divvy:nombreTrajetsOccasionnels 8565 ;
-    divvy:partOccasionnelle 40.63 .
+    divvy:nombreTrajetsOccasionnels 8566 ;
+    divvy:partOccasionnelle 40.64 .
 
 <http://example.org/divvy/observation/station/TA1307000127__Clark%20St%20%26%20Grace%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000127__Clark%20St%20%26%20Grace%20St> ;
@@ -7892,22 +7892,22 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000131__Wabash%20Ave%20%26%20Wacker%20Pl> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000131__Wabash%20Ave%20%26%20Wacker%20Pl> ;
-    divvy:nombreTotalTrajets 16741 ;
+    divvy:nombreTotalTrajets 16743 ;
     divvy:nombreTrajetsAbonnes 8714 ;
-    divvy:nombreTrajetsOccasionnels 8027 ;
+    divvy:nombreTrajetsOccasionnels 8029 ;
     divvy:partOccasionnelle 47.95 .
 
 <http://example.org/divvy/observation/station/TA1307000134__Wilton%20Ave%20%26%20Belmont%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000134__Wilton%20Ave%20%26%20Belmont%20Ave> ;
-    divvy:nombreTotalTrajets 30207 ;
-    divvy:nombreTrajetsAbonnes 20266 ;
-    divvy:nombreTrajetsOccasionnels 9941 ;
+    divvy:nombreTotalTrajets 30209 ;
+    divvy:nombreTrajetsAbonnes 20267 ;
+    divvy:nombreTrajetsOccasionnels 9942 ;
     divvy:partOccasionnelle 32.91 .
 
 <http://example.org/divvy/observation/station/TA1307000136__Clark%20St%20%26%20Wellington%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000136__Clark%20St%20%26%20Wellington%20Ave> ;
-    divvy:nombreTotalTrajets 17418 ;
-    divvy:nombreTrajetsAbonnes 12032 ;
+    divvy:nombreTotalTrajets 17419 ;
+    divvy:nombreTrajetsAbonnes 12033 ;
     divvy:nombreTrajetsOccasionnels 5386 ;
     divvy:partOccasionnelle 30.92 .
 
@@ -7927,24 +7927,24 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000140__Western%20Ave%20%26%20Leland%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000140__Western%20Ave%20%26%20Leland%20Ave> ;
-    divvy:nombreTotalTrajets 7988 ;
+    divvy:nombreTotalTrajets 7989 ;
     divvy:nombreTrajetsAbonnes 5651 ;
-    divvy:nombreTrajetsOccasionnels 2337 ;
-    divvy:partOccasionnelle 29.26 .
+    divvy:nombreTrajetsOccasionnels 2338 ;
+    divvy:partOccasionnelle 29.27 .
 
 <http://example.org/divvy/observation/station/TA1307000142__Clark%20St%20%26%20Drummond%20Pl> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000142__Clark%20St%20%26%20Drummond%20Pl> ;
-    divvy:nombreTotalTrajets 21530 ;
-    divvy:nombreTrajetsAbonnes 14884 ;
+    divvy:nombreTotalTrajets 21533 ;
+    divvy:nombreTrajetsAbonnes 14887 ;
     divvy:nombreTrajetsOccasionnels 6646 ;
-    divvy:partOccasionnelle 30.87 .
+    divvy:partOccasionnelle 30.86 .
 
 <http://example.org/divvy/observation/station/TA1307000143__Sedgwick%20St%20%26%20Schiller%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000143__Sedgwick%20St%20%26%20Schiller%20St> ;
-    divvy:nombreTotalTrajets 5776 ;
-    divvy:nombreTrajetsAbonnes 3806 ;
+    divvy:nombreTotalTrajets 5777 ;
+    divvy:nombreTrajetsAbonnes 3807 ;
     divvy:nombreTrajetsOccasionnels 1970 ;
-    divvy:partOccasionnelle 34.11 .
+    divvy:partOccasionnelle 34.10 .
 
 <http://example.org/divvy/observation/station/TA1307000144__Wolcott%20%28Ravenswood%29%20Ave%20%26%20Montrose%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000144__Wolcott%20%28Ravenswood%29%20Ave%20%26%20Montrose%20Ave> ;
@@ -7969,10 +7969,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000151__Wells%20St%20%26%20Hubbard%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000151__Wells%20St%20%26%20Hubbard%20St> ;
-    divvy:nombreTotalTrajets 30348 ;
-    divvy:nombreTrajetsAbonnes 20889 ;
+    divvy:nombreTotalTrajets 30353 ;
+    divvy:nombreTrajetsAbonnes 20894 ;
     divvy:nombreTrajetsOccasionnels 9459 ;
-    divvy:partOccasionnelle 31.17 .
+    divvy:partOccasionnelle 31.16 .
 
 <http://example.org/divvy/observation/station/TA1307000153__Emerald%20Ave%20%26%2028th%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000153__Emerald%20Ave%20%26%2028th%20St> ;
@@ -7983,8 +7983,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1307000156__Lincoln%20Ave%20%26%20Sunnyside%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1307000156__Lincoln%20Ave%20%26%20Sunnyside%20Ave> ;
-    divvy:nombreTotalTrajets 7473 ;
-    divvy:nombreTrajetsAbonnes 5015 ;
+    divvy:nombreTotalTrajets 7474 ;
+    divvy:nombreTrajetsAbonnes 5016 ;
     divvy:nombreTrajetsOccasionnels 2458 ;
     divvy:partOccasionnelle 32.89 .
 
@@ -8088,10 +8088,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1308000013__Halsted%20St%20%26%20Archer%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000013__Halsted%20St%20%26%20Archer%20Ave> ;
-    divvy:nombreTotalTrajets 3835 ;
-    divvy:nombreTrajetsAbonnes 2521 ;
+    divvy:nombreTotalTrajets 3836 ;
+    divvy:nombreTrajetsAbonnes 2522 ;
     divvy:nombreTrajetsOccasionnels 1314 ;
-    divvy:partOccasionnelle 34.26 .
+    divvy:partOccasionnelle 34.25 .
 
 <http://example.org/divvy/observation/station/TA1308000014__Normal%20Ave%20%26%20Archer%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000014__Normal%20Ave%20%26%20Archer%20Ave> ;
@@ -8102,17 +8102,17 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1308000019__Racine%20Ave%20%26%20Belmont%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000019__Racine%20Ave%20%26%20Belmont%20Ave> ;
-    divvy:nombreTotalTrajets 12232 ;
+    divvy:nombreTotalTrajets 12236 ;
     divvy:nombreTrajetsAbonnes 7813 ;
-    divvy:nombreTrajetsOccasionnels 4419 ;
-    divvy:partOccasionnelle 36.13 .
+    divvy:nombreTrajetsOccasionnels 4423 ;
+    divvy:partOccasionnelle 36.15 .
 
 <http://example.org/divvy/observation/station/TA1308000021__Winthrop%20Ave%20%26%20Lawrence%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000021__Winthrop%20Ave%20%26%20Lawrence%20Ave> ;
-    divvy:nombreTotalTrajets 7907 ;
+    divvy:nombreTotalTrajets 7908 ;
     divvy:nombreTrajetsAbonnes 5309 ;
-    divvy:nombreTrajetsOccasionnels 2598 ;
-    divvy:partOccasionnelle 32.86 .
+    divvy:nombreTrajetsOccasionnels 2599 ;
+    divvy:partOccasionnelle 32.87 .
 
 <http://example.org/divvy/observation/station/TA1308000022__Pine%20Grove%20Ave%20%26%20Irving%20Park%20Rd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000022__Pine%20Grove%20Ave%20%26%20Irving%20Park%20Rd> ;
@@ -8193,10 +8193,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1308000047__Southport%20Ave%20%26%20Clark%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000047__Southport%20Ave%20%26%20Clark%20St> ;
-    divvy:nombreTotalTrajets 4592 ;
-    divvy:nombreTrajetsAbonnes 2743 ;
+    divvy:nombreTotalTrajets 4593 ;
+    divvy:nombreTrajetsAbonnes 2744 ;
     divvy:nombreTrajetsOccasionnels 1849 ;
-    divvy:partOccasionnelle 40.27 .
+    divvy:partOccasionnelle 40.26 .
 
 <http://example.org/divvy/observation/station/TA1308000049__Wells%20St%20%26%20Evergreen%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1308000049__Wells%20St%20%26%20Evergreen%20Ave> ;
@@ -8221,10 +8221,10 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000002__Michigan%20Ave%20%26%20Jackson%20Blvd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000002__Michigan%20Ave%20%26%20Jackson%20Blvd> ;
-    divvy:nombreTotalTrajets 16035 ;
+    divvy:nombreTotalTrajets 16036 ;
     divvy:nombreTrajetsAbonnes 7669 ;
-    divvy:nombreTrajetsOccasionnels 8366 ;
-    divvy:partOccasionnelle 52.17 .
+    divvy:nombreTrajetsOccasionnels 8367 ;
+    divvy:partOccasionnelle 52.18 .
 
 <http://example.org/divvy/observation/station/TA1309000003__Western%20Ave%20%26%2024th%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000003__Western%20Ave%20%26%2024th%20St> ;
@@ -8270,8 +8270,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000010__Wabash%20Ave%20%26%209th%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000010__Wabash%20Ave%20%26%209th%20St> ;
-    divvy:nombreTotalTrajets 18220 ;
-    divvy:nombreTrajetsAbonnes 11203 ;
+    divvy:nombreTotalTrajets 18221 ;
+    divvy:nombreTrajetsAbonnes 11204 ;
     divvy:nombreTrajetsOccasionnels 7017 ;
     divvy:partOccasionnelle 38.51 .
 
@@ -8291,8 +8291,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000014__Clark%20St%20%26%20Leland%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000014__Clark%20St%20%26%20Leland%20Ave> ;
-    divvy:nombreTotalTrajets 11910 ;
-    divvy:nombreTrajetsAbonnes 7789 ;
+    divvy:nombreTotalTrajets 11911 ;
+    divvy:nombreTrajetsAbonnes 7790 ;
     divvy:nombreTrajetsOccasionnels 4121 ;
     divvy:partOccasionnelle 34.60 .
 
@@ -8312,8 +8312,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000019__Lakeview%20Ave%20%26%20Fullerton%20Pkwy> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000019__Lakeview%20Ave%20%26%20Fullerton%20Pkwy> ;
-    divvy:nombreTotalTrajets 21366 ;
-    divvy:nombreTrajetsAbonnes 12993 ;
+    divvy:nombreTotalTrajets 21367 ;
+    divvy:nombreTrajetsAbonnes 12994 ;
     divvy:nombreTrajetsOccasionnels 8373 ;
     divvy:partOccasionnelle 39.19 .
 
@@ -8326,9 +8326,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000023__Sheffield%20Ave%20%26%20Wrightwood%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000023__Sheffield%20Ave%20%26%20Wrightwood%20Ave> ;
-    divvy:nombreTotalTrajets 18644 ;
+    divvy:nombreTotalTrajets 18645 ;
     divvy:nombreTrajetsAbonnes 11778 ;
-    divvy:nombreTrajetsOccasionnels 6866 ;
+    divvy:nombreTrajetsOccasionnels 6867 ;
     divvy:partOccasionnelle 36.83 .
 
 <http://example.org/divvy/observation/station/TA1309000024__Clark%20St%20%26%20Schiller%20St> a divvy:ObservationTrajets ;
@@ -8340,9 +8340,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000025__Halsted%20St%20%26%20Roscoe%20St> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000025__Halsted%20St%20%26%20Roscoe%20St> ;
-    divvy:nombreTotalTrajets 18337 ;
-    divvy:nombreTrajetsAbonnes 11846 ;
-    divvy:nombreTrajetsOccasionnels 6491 ;
+    divvy:nombreTotalTrajets 18339 ;
+    divvy:nombreTrajetsAbonnes 11847 ;
+    divvy:nombreTrajetsOccasionnels 6492 ;
     divvy:partOccasionnelle 35.40 .
 
 <http://example.org/divvy/observation/station/TA1309000026__Lincoln%20Ave%20%26%20Belle%20Plaine%20Ave> a divvy:ObservationTrajets ;
@@ -8354,8 +8354,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000027__Sheridan%20Rd%20%26%20Buena%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000027__Sheridan%20Rd%20%26%20Buena%20Ave> ;
-    divvy:nombreTotalTrajets 12650 ;
-    divvy:nombreTrajetsAbonnes 9112 ;
+    divvy:nombreTotalTrajets 12651 ;
+    divvy:nombreTrajetsAbonnes 9113 ;
     divvy:nombreTrajetsOccasionnels 3538 ;
     divvy:partOccasionnelle 27.97 .
 
@@ -8368,8 +8368,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000030__Southport%20Ave%20%26%20Clybourn%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000030__Southport%20Ave%20%26%20Clybourn%20Ave> ;
-    divvy:nombreTotalTrajets 8552 ;
-    divvy:nombreTrajetsAbonnes 5597 ;
+    divvy:nombreTotalTrajets 8553 ;
+    divvy:nombreTrajetsAbonnes 5598 ;
     divvy:nombreTrajetsOccasionnels 2955 ;
     divvy:partOccasionnelle 34.55 .
 
@@ -8382,15 +8382,15 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000033__Sheffield%20Ave%20%26%20Webster%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000033__Sheffield%20Ave%20%26%20Webster%20Ave> ;
-    divvy:nombreTotalTrajets 18224 ;
-    divvy:nombreTrajetsAbonnes 12255 ;
+    divvy:nombreTotalTrajets 18225 ;
+    divvy:nombreTrajetsAbonnes 12256 ;
     divvy:nombreTrajetsOccasionnels 5969 ;
     divvy:partOccasionnelle 32.75 .
 
 <http://example.org/divvy/observation/station/TA1309000035__Clark%20St%20%26%20Winnemac%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000035__Clark%20St%20%26%20Winnemac%20Ave> ;
-    divvy:nombreTotalTrajets 18078 ;
-    divvy:nombreTrajetsAbonnes 12262 ;
+    divvy:nombreTotalTrajets 18079 ;
+    divvy:nombreTrajetsAbonnes 12263 ;
     divvy:nombreTrajetsOccasionnels 5816 ;
     divvy:partOccasionnelle 32.17 .
 
@@ -8466,8 +8466,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/TA1309000058__Lincoln%20Ave%20%26%20Fullerton%20Ave> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/TA1309000058__Lincoln%20Ave%20%26%20Fullerton%20Ave> ;
-    divvy:nombreTotalTrajets 23499 ;
-    divvy:nombreTrajetsAbonnes 16446 ;
+    divvy:nombreTotalTrajets 23500 ;
+    divvy:nombreTrajetsAbonnes 16447 ;
     divvy:nombreTrajetsOccasionnels 7053 ;
     divvy:partOccasionnelle 30.01 .
 
@@ -8529,8 +8529,8 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/WL-012__Clinton%20St%20%26%20Washington%20Blvd> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/WL-012__Clinton%20St%20%26%20Washington%20Blvd> ;
-    divvy:nombreTotalTrajets 44662 ;
-    divvy:nombreTrajetsAbonnes 36380 ;
+    divvy:nombreTotalTrajets 44664 ;
+    divvy:nombreTrajetsAbonnes 36382 ;
     divvy:nombreTrajetsOccasionnels 8282 ;
     divvy:partOccasionnelle 18.54 .
 
@@ -8550,9 +8550,9 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/station/chargingstx1__Bissell%20St%20%26%20Armitage%20Ave%2A> a divvy:ObservationTrajets ;
     divvy:concerneStation <http://example.org/divvy/station/chargingstx1__Bissell%20St%20%26%20Armitage%20Ave%2A> ;
-    divvy:nombreTotalTrajets 16741 ;
+    divvy:nombreTotalTrajets 16742 ;
     divvy:nombreTrajetsAbonnes 11376 ;
-    divvy:nombreTrajetsOccasionnels 5365 ;
+    divvy:nombreTrajetsOccasionnels 5366 ;
     divvy:partOccasionnelle 32.05 .
 
 <http://example.org/divvy/observation/station/chargingstx2__Wilton%20Ave%20%26%20Diversey%20Pkwy%2A> a divvy:ObservationTrajets ;
@@ -8585,1011 +8585,1011 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/observation/temps/jour-1/heure-0> a divvy:ObservationTrajets ;
     divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-0> ;
-    divvy:nombreTotalTrajets 18557 ;
-    divvy:nombreTrajetsAbonnes 7979 ;
-    divvy:nombreTrajetsOccasionnels 10578 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-1> ;
-    divvy:nombreTotalTrajets 12115 ;
-    divvy:nombreTrajetsAbonnes 4970 ;
-    divvy:nombreTrajetsOccasionnels 7145 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-10> ;
-    divvy:nombreTotalTrajets 89724 ;
-    divvy:nombreTrajetsAbonnes 47634 ;
-    divvy:nombreTrajetsOccasionnels 42090 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-11> ;
-    divvy:nombreTotalTrajets 98732 ;
-    divvy:nombreTrajetsAbonnes 50873 ;
-    divvy:nombreTrajetsOccasionnels 47859 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-12> ;
-    divvy:nombreTotalTrajets 99443 ;
-    divvy:nombreTrajetsAbonnes 50749 ;
-    divvy:nombreTrajetsOccasionnels 48694 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-13> ;
-    divvy:nombreTotalTrajets 100128 ;
-    divvy:nombreTrajetsAbonnes 50522 ;
-    divvy:nombreTrajetsOccasionnels 49606 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-14> ;
-    divvy:nombreTotalTrajets 102224 ;
-    divvy:nombreTrajetsAbonnes 51211 ;
-    divvy:nombreTrajetsOccasionnels 51013 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-15> ;
-    divvy:nombreTotalTrajets 98835 ;
-    divvy:nombreTrajetsAbonnes 51355 ;
-    divvy:nombreTrajetsOccasionnels 47480 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-16> ;
-    divvy:nombreTotalTrajets 88510 ;
-    divvy:nombreTrajetsAbonnes 47697 ;
-    divvy:nombreTrajetsOccasionnels 40813 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-17> ;
-    divvy:nombreTotalTrajets 77412 ;
-    divvy:nombreTrajetsAbonnes 43364 ;
-    divvy:nombreTrajetsOccasionnels 34048 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-18> ;
-    divvy:nombreTotalTrajets 58434 ;
-    divvy:nombreTrajetsAbonnes 33406 ;
-    divvy:nombreTrajetsOccasionnels 25028 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-19> ;
-    divvy:nombreTotalTrajets 41765 ;
-    divvy:nombreTrajetsAbonnes 23706 ;
-    divvy:nombreTrajetsOccasionnels 18059 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-2> ;
-    divvy:nombreTotalTrajets 6594 ;
-    divvy:nombreTrajetsAbonnes 2798 ;
-    divvy:nombreTrajetsOccasionnels 3796 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-20> ;
-    divvy:nombreTotalTrajets 31032 ;
-    divvy:nombreTrajetsAbonnes 17486 ;
-    divvy:nombreTrajetsOccasionnels 13546 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-21> ;
-    divvy:nombreTotalTrajets 23823 ;
-    divvy:nombreTrajetsAbonnes 12336 ;
-    divvy:nombreTrajetsOccasionnels 11487 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-22> ;
-    divvy:nombreTotalTrajets 14651 ;
-    divvy:nombreTrajetsAbonnes 7228 ;
-    divvy:nombreTrajetsOccasionnels 7423 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-23> ;
-    divvy:nombreTotalTrajets 9392 ;
-    divvy:nombreTrajetsAbonnes 4084 ;
-    divvy:nombreTrajetsOccasionnels 5308 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-3> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-3> ;
-    divvy:nombreTotalTrajets 4681 ;
-    divvy:nombreTrajetsAbonnes 2107 ;
-    divvy:nombreTrajetsOccasionnels 2574 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-4> ;
-    divvy:nombreTotalTrajets 5494 ;
-    divvy:nombreTrajetsAbonnes 2964 ;
-    divvy:nombreTrajetsOccasionnels 2530 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-5> ;
-    divvy:nombreTotalTrajets 11666 ;
-    divvy:nombreTrajetsAbonnes 6847 ;
-    divvy:nombreTrajetsOccasionnels 4819 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-6> ;
-    divvy:nombreTotalTrajets 19649 ;
-    divvy:nombreTrajetsAbonnes 12026 ;
-    divvy:nombreTrajetsOccasionnels 7623 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-7> ;
-    divvy:nombreTotalTrajets 33833 ;
-    divvy:nombreTrajetsAbonnes 20803 ;
-    divvy:nombreTrajetsOccasionnels 13030 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-8> ;
-    divvy:nombreTotalTrajets 53755 ;
-    divvy:nombreTrajetsAbonnes 31165 ;
-    divvy:nombreTrajetsOccasionnels 22590 .
-
-<http://example.org/divvy/observation/temps/jour-1/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-9> ;
-    divvy:nombreTotalTrajets 75110 ;
-    divvy:nombreTrajetsAbonnes 41732 ;
-    divvy:nombreTrajetsOccasionnels 33378 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-0> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-0> ;
-    divvy:nombreTotalTrajets 5564 ;
-    divvy:nombreTrajetsAbonnes 2425 ;
-    divvy:nombreTrajetsOccasionnels 3139 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-1> ;
-    divvy:nombreTotalTrajets 3406 ;
-    divvy:nombreTrajetsAbonnes 1323 ;
-    divvy:nombreTrajetsOccasionnels 2083 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-10> ;
-    divvy:nombreTotalTrajets 54448 ;
-    divvy:nombreTrajetsAbonnes 34091 ;
-    divvy:nombreTrajetsOccasionnels 20357 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-11> ;
-    divvy:nombreTotalTrajets 63913 ;
-    divvy:nombreTrajetsAbonnes 39661 ;
-    divvy:nombreTrajetsOccasionnels 24252 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-12> ;
-    divvy:nombreTotalTrajets 64365 ;
-    divvy:nombreTrajetsAbonnes 38941 ;
-    divvy:nombreTrajetsOccasionnels 25424 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-13> ;
-    divvy:nombreTotalTrajets 67400 ;
-    divvy:nombreTrajetsAbonnes 40600 ;
-    divvy:nombreTrajetsOccasionnels 26800 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-14> ;
-    divvy:nombreTotalTrajets 83941 ;
-    divvy:nombreTrajetsAbonnes 54258 ;
-    divvy:nombreTrajetsOccasionnels 29683 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-15> ;
-    divvy:nombreTotalTrajets 121705 ;
-    divvy:nombreTrajetsAbonnes 85246 ;
-    divvy:nombreTrajetsOccasionnels 36459 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-16> ;
-    divvy:nombreTotalTrajets 150643 ;
-    divvy:nombreTrajetsAbonnes 107808 ;
-    divvy:nombreTrajetsOccasionnels 42835 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-17> ;
-    divvy:nombreTotalTrajets 114572 ;
-    divvy:nombreTrajetsAbonnes 79138 ;
-    divvy:nombreTrajetsOccasionnels 35434 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-18> ;
-    divvy:nombreTotalTrajets 76348 ;
-    divvy:nombreTrajetsAbonnes 51817 ;
-    divvy:nombreTrajetsOccasionnels 24531 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-19> ;
-    divvy:nombreTotalTrajets 51033 ;
-    divvy:nombreTrajetsAbonnes 33902 ;
-    divvy:nombreTrajetsOccasionnels 17131 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-2> ;
-    divvy:nombreTotalTrajets 2351 ;
-    divvy:nombreTrajetsAbonnes 1124 ;
-    divvy:nombreTrajetsOccasionnels 1227 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-20> ;
-    divvy:nombreTotalTrajets 36337 ;
-    divvy:nombreTrajetsAbonnes 23625 ;
-    divvy:nombreTrajetsOccasionnels 12712 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-21> ;
-    divvy:nombreTotalTrajets 22791 ;
-    divvy:nombreTrajetsAbonnes 13645 ;
-    divvy:nombreTrajetsOccasionnels 9146 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-22> ;
-    divvy:nombreTotalTrajets 12609 ;
-    divvy:nombreTrajetsAbonnes 6911 ;
-    divvy:nombreTrajetsOccasionnels 5698 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-23> ;
-    divvy:nombreTotalTrajets 7349 ;
-    divvy:nombreTrajetsAbonnes 3489 ;
-    divvy:nombreTrajetsOccasionnels 3860 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-3> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-3> ;
-    divvy:nombreTotalTrajets 3043 ;
-    divvy:nombreTrajetsAbonnes 1915 ;
-    divvy:nombreTrajetsOccasionnels 1128 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-4> ;
-    divvy:nombreTotalTrajets 12343 ;
-    divvy:nombreTrajetsAbonnes 9726 ;
-    divvy:nombreTrajetsOccasionnels 2617 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-5> ;
-    divvy:nombreTotalTrajets 36631 ;
-    divvy:nombreTrajetsAbonnes 30152 ;
-    divvy:nombreTrajetsOccasionnels 6479 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-6> ;
-    divvy:nombreTotalTrajets 68471 ;
-    divvy:nombreTrajetsAbonnes 56636 ;
-    divvy:nombreTrajetsOccasionnels 11835 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-7> ;
-    divvy:nombreTotalTrajets 84804 ;
-    divvy:nombreTrajetsAbonnes 68875 ;
-    divvy:nombreTrajetsOccasionnels 15929 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-8> ;
-    divvy:nombreTotalTrajets 52020 ;
-    divvy:nombreTrajetsAbonnes 38400 ;
-    divvy:nombreTrajetsOccasionnels 13620 .
-
-<http://example.org/divvy/observation/temps/jour-2/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-9> ;
-    divvy:nombreTotalTrajets 43826 ;
-    divvy:nombreTrajetsAbonnes 28206 ;
-    divvy:nombreTrajetsOccasionnels 15620 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-0> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-0> ;
-    divvy:nombreTotalTrajets 3839 ;
-    divvy:nombreTrajetsAbonnes 1795 ;
-    divvy:nombreTrajetsOccasionnels 2044 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-1> ;
-    divvy:nombreTotalTrajets 2286 ;
-    divvy:nombreTrajetsAbonnes 961 ;
-    divvy:nombreTrajetsOccasionnels 1325 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-10> ;
-    divvy:nombreTotalTrajets 48485 ;
-    divvy:nombreTrajetsAbonnes 32809 ;
-    divvy:nombreTrajetsOccasionnels 15676 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-11> ;
-    divvy:nombreTotalTrajets 57634 ;
-    divvy:nombreTrajetsAbonnes 38863 ;
-    divvy:nombreTrajetsOccasionnels 18771 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-12> ;
-    divvy:nombreTotalTrajets 57260 ;
-    divvy:nombreTrajetsAbonnes 37732 ;
-    divvy:nombreTrajetsOccasionnels 19528 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-13> ;
-    divvy:nombreTotalTrajets 58205 ;
-    divvy:nombreTrajetsAbonnes 37674 ;
-    divvy:nombreTrajetsOccasionnels 20531 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-14> ;
-    divvy:nombreTotalTrajets 80616 ;
-    divvy:nombreTrajetsAbonnes 55635 ;
-    divvy:nombreTrajetsOccasionnels 24981 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-15> ;
-    divvy:nombreTotalTrajets 131028 ;
-    divvy:nombreTrajetsAbonnes 95978 ;
-    divvy:nombreTrajetsOccasionnels 35050 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-16> ;
-    divvy:nombreTotalTrajets 161664 ;
-    divvy:nombreTrajetsAbonnes 118021 ;
-    divvy:nombreTrajetsOccasionnels 43643 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-17> ;
-    divvy:nombreTotalTrajets 119941 ;
-    divvy:nombreTrajetsAbonnes 83649 ;
-    divvy:nombreTrajetsOccasionnels 36292 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-18> ;
-    divvy:nombreTotalTrajets 78151 ;
-    divvy:nombreTrajetsAbonnes 53826 ;
-    divvy:nombreTrajetsOccasionnels 24325 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-19> ;
-    divvy:nombreTotalTrajets 52475 ;
-    divvy:nombreTrajetsAbonnes 35556 ;
-    divvy:nombreTrajetsOccasionnels 16919 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-2> ;
-    divvy:nombreTotalTrajets 1667 ;
-    divvy:nombreTrajetsAbonnes 884 ;
-    divvy:nombreTrajetsOccasionnels 783 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-20> ;
-    divvy:nombreTotalTrajets 41554 ;
-    divvy:nombreTrajetsAbonnes 27016 ;
-    divvy:nombreTrajetsOccasionnels 14538 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-21> ;
-    divvy:nombreTotalTrajets 26733 ;
-    divvy:nombreTrajetsAbonnes 16516 ;
-    divvy:nombreTrajetsOccasionnels 10217 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-22> ;
-    divvy:nombreTotalTrajets 14501 ;
-    divvy:nombreTrajetsAbonnes 8381 ;
-    divvy:nombreTrajetsOccasionnels 6120 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-23> ;
-    divvy:nombreTotalTrajets 8088 ;
-    divvy:nombreTrajetsAbonnes 4040 ;
-    divvy:nombreTrajetsOccasionnels 4048 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-3> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-3> ;
-    divvy:nombreTotalTrajets 2901 ;
-    divvy:nombreTrajetsAbonnes 1912 ;
-    divvy:nombreTrajetsOccasionnels 989 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-4> ;
-    divvy:nombreTotalTrajets 13746 ;
-    divvy:nombreTrajetsAbonnes 11063 ;
-    divvy:nombreTrajetsOccasionnels 2683 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-5> ;
-    divvy:nombreTotalTrajets 42212 ;
-    divvy:nombreTrajetsAbonnes 34588 ;
-    divvy:nombreTrajetsOccasionnels 7624 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-6> ;
-    divvy:nombreTotalTrajets 85627 ;
-    divvy:nombreTrajetsAbonnes 71203 ;
-    divvy:nombreTrajetsOccasionnels 14424 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-7> ;
-    divvy:nombreTotalTrajets 106541 ;
-    divvy:nombreTrajetsAbonnes 87092 ;
-    divvy:nombreTrajetsOccasionnels 19449 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-8> ;
-    divvy:nombreTotalTrajets 56526 ;
-    divvy:nombreTrajetsAbonnes 43072 ;
-    divvy:nombreTrajetsOccasionnels 13454 .
-
-<http://example.org/divvy/observation/temps/jour-3/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-9> ;
-    divvy:nombreTotalTrajets 41121 ;
-    divvy:nombreTrajetsAbonnes 28409 ;
-    divvy:nombreTrajetsOccasionnels 12712 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-0> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-0> ;
-    divvy:nombreTotalTrajets 4367 ;
-    divvy:nombreTrajetsAbonnes 2012 ;
-    divvy:nombreTrajetsOccasionnels 2355 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-1> ;
-    divvy:nombreTotalTrajets 2433 ;
-    divvy:nombreTrajetsAbonnes 1056 ;
-    divvy:nombreTrajetsOccasionnels 1377 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-10> ;
-    divvy:nombreTotalTrajets 52495 ;
-    divvy:nombreTrajetsAbonnes 35643 ;
-    divvy:nombreTrajetsOccasionnels 16852 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-11> ;
-    divvy:nombreTotalTrajets 61104 ;
-    divvy:nombreTrajetsAbonnes 41391 ;
-    divvy:nombreTrajetsOccasionnels 19713 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-12> ;
-    divvy:nombreTotalTrajets 58876 ;
-    divvy:nombreTrajetsAbonnes 39380 ;
-    divvy:nombreTrajetsOccasionnels 19496 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-13> ;
-    divvy:nombreTotalTrajets 62523 ;
-    divvy:nombreTrajetsAbonnes 40764 ;
-    divvy:nombreTrajetsOccasionnels 21759 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-14> ;
-    divvy:nombreTotalTrajets 82320 ;
-    divvy:nombreTrajetsAbonnes 56684 ;
-    divvy:nombreTrajetsOccasionnels 25636 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-15> ;
-    divvy:nombreTotalTrajets 131637 ;
-    divvy:nombreTrajetsAbonnes 95218 ;
-    divvy:nombreTrajetsOccasionnels 36419 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-16> ;
-    divvy:nombreTotalTrajets 163384 ;
-    divvy:nombreTrajetsAbonnes 116879 ;
-    divvy:nombreTrajetsOccasionnels 46505 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-17> ;
-    divvy:nombreTotalTrajets 122223 ;
-    divvy:nombreTrajetsAbonnes 83559 ;
-    divvy:nombreTrajetsOccasionnels 38664 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-18> ;
-    divvy:nombreTotalTrajets 82255 ;
-    divvy:nombreTrajetsAbonnes 55106 ;
-    divvy:nombreTrajetsOccasionnels 27149 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-19> ;
-    divvy:nombreTotalTrajets 58183 ;
-    divvy:nombreTrajetsAbonnes 38192 ;
-    divvy:nombreTrajetsOccasionnels 19991 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-2> ;
-    divvy:nombreTotalTrajets 1825 ;
-    divvy:nombreTrajetsAbonnes 984 ;
-    divvy:nombreTrajetsOccasionnels 841 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-20> ;
-    divvy:nombreTotalTrajets 45965 ;
-    divvy:nombreTrajetsAbonnes 29115 ;
-    divvy:nombreTrajetsOccasionnels 16850 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-21> ;
-    divvy:nombreTotalTrajets 31010 ;
-    divvy:nombreTrajetsAbonnes 18483 ;
-    divvy:nombreTrajetsOccasionnels 12527 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-22> ;
-    divvy:nombreTotalTrajets 16918 ;
-    divvy:nombreTrajetsAbonnes 9593 ;
-    divvy:nombreTrajetsOccasionnels 7325 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-23> ;
-    divvy:nombreTotalTrajets 9367 ;
-    divvy:nombreTrajetsAbonnes 4540 ;
-    divvy:nombreTrajetsOccasionnels 4827 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-3> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-3> ;
-    divvy:nombreTotalTrajets 2804 ;
-    divvy:nombreTrajetsAbonnes 1764 ;
-    divvy:nombreTrajetsOccasionnels 1040 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-4> ;
-    divvy:nombreTotalTrajets 13768 ;
-    divvy:nombreTrajetsAbonnes 10867 ;
-    divvy:nombreTrajetsOccasionnels 2901 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-5> ;
-    divvy:nombreTotalTrajets 41270 ;
-    divvy:nombreTrajetsAbonnes 33893 ;
-    divvy:nombreTrajetsOccasionnels 7377 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-6> ;
-    divvy:nombreTotalTrajets 83664 ;
-    divvy:nombreTrajetsAbonnes 69013 ;
-    divvy:nombreTrajetsOccasionnels 14651 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-7> ;
-    divvy:nombreTotalTrajets 104748 ;
-    divvy:nombreTrajetsAbonnes 85011 ;
-    divvy:nombreTrajetsOccasionnels 19737 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-8> ;
-    divvy:nombreTotalTrajets 57653 ;
-    divvy:nombreTrajetsAbonnes 44471 ;
-    divvy:nombreTrajetsOccasionnels 13182 .
-
-<http://example.org/divvy/observation/temps/jour-4/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-9> ;
-    divvy:nombreTotalTrajets 43414 ;
-    divvy:nombreTrajetsAbonnes 30200 ;
-    divvy:nombreTrajetsOccasionnels 13214 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-0> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-0> ;
-    divvy:nombreTotalTrajets 4802 ;
-    divvy:nombreTrajetsAbonnes 2161 ;
-    divvy:nombreTrajetsOccasionnels 2641 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-1> ;
-    divvy:nombreTotalTrajets 2704 ;
-    divvy:nombreTrajetsAbonnes 1178 ;
-    divvy:nombreTrajetsOccasionnels 1526 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-10> ;
-    divvy:nombreTotalTrajets 53767 ;
-    divvy:nombreTrajetsAbonnes 35646 ;
-    divvy:nombreTrajetsOccasionnels 18121 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-11> ;
-    divvy:nombreTotalTrajets 64320 ;
-    divvy:nombreTrajetsAbonnes 42152 ;
-    divvy:nombreTrajetsOccasionnels 22168 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-12> ;
-    divvy:nombreTotalTrajets 63826 ;
-    divvy:nombreTrajetsAbonnes 40952 ;
-    divvy:nombreTrajetsOccasionnels 22874 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-13> ;
-    divvy:nombreTotalTrajets 65888 ;
-    divvy:nombreTrajetsAbonnes 40971 ;
-    divvy:nombreTrajetsOccasionnels 24917 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-14> ;
-    divvy:nombreTotalTrajets 86790 ;
-    divvy:nombreTrajetsAbonnes 57584 ;
-    divvy:nombreTrajetsOccasionnels 29206 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-15> ;
-    divvy:nombreTotalTrajets 130133 ;
-    divvy:nombreTrajetsAbonnes 91848 ;
-    divvy:nombreTrajetsOccasionnels 38285 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-16> ;
-    divvy:nombreTotalTrajets 161491 ;
-    divvy:nombreTrajetsAbonnes 113289 ;
-    divvy:nombreTrajetsOccasionnels 48202 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-17> ;
-    divvy:nombreTotalTrajets 121071 ;
-    divvy:nombreTrajetsAbonnes 81167 ;
-    divvy:nombreTrajetsOccasionnels 39904 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-18> ;
-    divvy:nombreTotalTrajets 80773 ;
-    divvy:nombreTrajetsAbonnes 53385 ;
-    divvy:nombreTrajetsOccasionnels 27388 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-19> ;
-    divvy:nombreTotalTrajets 55003 ;
-    divvy:nombreTrajetsAbonnes 36222 ;
-    divvy:nombreTrajetsOccasionnels 18781 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-2> ;
-    divvy:nombreTotalTrajets 1810 ;
-    divvy:nombreTrajetsAbonnes 931 ;
-    divvy:nombreTrajetsOccasionnels 879 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-20> ;
-    divvy:nombreTotalTrajets 43761 ;
-    divvy:nombreTrajetsAbonnes 27773 ;
-    divvy:nombreTrajetsOccasionnels 15988 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-21> ;
-    divvy:nombreTotalTrajets 34602 ;
-    divvy:nombreTrajetsAbonnes 20436 ;
-    divvy:nombreTrajetsOccasionnels 14166 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-22> ;
-    divvy:nombreTotalTrajets 22042 ;
-    divvy:nombreTrajetsAbonnes 12141 ;
-    divvy:nombreTrajetsOccasionnels 9901 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-23> ;
-    divvy:nombreTotalTrajets 13480 ;
-    divvy:nombreTrajetsAbonnes 6578 ;
-    divvy:nombreTrajetsOccasionnels 6902 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-3> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-3> ;
-    divvy:nombreTotalTrajets 2746 ;
-    divvy:nombreTrajetsAbonnes 1746 ;
-    divvy:nombreTrajetsOccasionnels 1000 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-4> ;
-    divvy:nombreTotalTrajets 12178 ;
-    divvy:nombreTrajetsAbonnes 9466 ;
-    divvy:nombreTrajetsOccasionnels 2712 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-5> ;
-    divvy:nombreTotalTrajets 38100 ;
-    divvy:nombreTrajetsAbonnes 30893 ;
-    divvy:nombreTrajetsOccasionnels 7207 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-6> ;
-    divvy:nombreTotalTrajets 77899 ;
-    divvy:nombreTrajetsAbonnes 63710 ;
-    divvy:nombreTrajetsOccasionnels 14189 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-7> ;
-    divvy:nombreTotalTrajets 99215 ;
-    divvy:nombreTrajetsAbonnes 80299 ;
-    divvy:nombreTrajetsOccasionnels 18916 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-8> ;
-    divvy:nombreTotalTrajets 58878 ;
-    divvy:nombreTrajetsAbonnes 44245 ;
-    divvy:nombreTrajetsOccasionnels 14633 .
-
-<http://example.org/divvy/observation/temps/jour-5/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-9> ;
-    divvy:nombreTotalTrajets 45242 ;
-    divvy:nombreTrajetsAbonnes 30876 ;
-    divvy:nombreTrajetsOccasionnels 14366 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-0> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-0> ;
-    divvy:nombreTotalTrajets 7608 ;
-    divvy:nombreTrajetsAbonnes 3411 ;
-    divvy:nombreTrajetsOccasionnels 4197 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-1> ;
-    divvy:nombreTotalTrajets 4247 ;
-    divvy:nombreTrajetsAbonnes 1773 ;
-    divvy:nombreTrajetsOccasionnels 2474 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-10> ;
-    divvy:nombreTotalTrajets 65789 ;
-    divvy:nombreTrajetsAbonnes 39669 ;
-    divvy:nombreTrajetsOccasionnels 26120 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-11> ;
-    divvy:nombreTotalTrajets 80037 ;
-    divvy:nombreTrajetsAbonnes 47034 ;
-    divvy:nombreTrajetsOccasionnels 33003 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-12> ;
-    divvy:nombreTotalTrajets 81294 ;
-    divvy:nombreTrajetsAbonnes 47417 ;
-    divvy:nombreTrajetsOccasionnels 33877 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-13> ;
-    divvy:nombreTotalTrajets 83871 ;
-    divvy:nombreTrajetsAbonnes 48729 ;
-    divvy:nombreTrajetsOccasionnels 35142 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-14> ;
-    divvy:nombreTotalTrajets 103670 ;
-    divvy:nombreTrajetsAbonnes 62730 ;
-    divvy:nombreTrajetsOccasionnels 40940 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-15> ;
-    divvy:nombreTotalTrajets 127069 ;
-    divvy:nombreTrajetsAbonnes 79901 ;
-    divvy:nombreTrajetsOccasionnels 47168 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-16> ;
-    divvy:nombreTotalTrajets 136587 ;
-    divvy:nombreTrajetsAbonnes 86097 ;
-    divvy:nombreTrajetsOccasionnels 50490 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-17> ;
-    divvy:nombreTotalTrajets 113229 ;
-    divvy:nombreTrajetsAbonnes 69579 ;
-    divvy:nombreTrajetsOccasionnels 43650 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-18> ;
-    divvy:nombreTotalTrajets 80049 ;
-    divvy:nombreTrajetsAbonnes 48046 ;
-    divvy:nombreTrajetsOccasionnels 32003 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-19> ;
-    divvy:nombreTotalTrajets 54260 ;
-    divvy:nombreTrajetsAbonnes 32032 ;
-    divvy:nombreTrajetsOccasionnels 22228 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-2> ;
-    divvy:nombreTotalTrajets 2681 ;
-    divvy:nombreTrajetsAbonnes 1323 ;
-    divvy:nombreTrajetsOccasionnels 1358 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-20> ;
-    divvy:nombreTotalTrajets 42818 ;
-    divvy:nombreTrajetsAbonnes 24648 ;
-    divvy:nombreTrajetsOccasionnels 18170 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-21> ;
-    divvy:nombreTotalTrajets 38203 ;
-    divvy:nombreTrajetsAbonnes 20496 ;
-    divvy:nombreTrajetsOccasionnels 17707 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-22> ;
-    divvy:nombreTotalTrajets 32032 ;
-    divvy:nombreTrajetsAbonnes 15837 ;
-    divvy:nombreTrajetsOccasionnels 16195 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-23> ;
-    divvy:nombreTotalTrajets 26854 ;
-    divvy:nombreTrajetsAbonnes 12027 ;
-    divvy:nombreTrajetsOccasionnels 14827 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-3> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-3> ;
-    divvy:nombreTotalTrajets 3200 ;
-    divvy:nombreTrajetsAbonnes 1906 ;
-    divvy:nombreTrajetsOccasionnels 1294 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-4> ;
-    divvy:nombreTotalTrajets 11771 ;
-    divvy:nombreTrajetsAbonnes 8885 ;
-    divvy:nombreTrajetsOccasionnels 2886 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-5> ;
-    divvy:nombreTotalTrajets 31795 ;
-    divvy:nombreTrajetsAbonnes 25187 ;
-    divvy:nombreTrajetsOccasionnels 6608 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-6> ;
-    divvy:nombreTotalTrajets 57602 ;
-    divvy:nombreTrajetsAbonnes 45857 ;
-    divvy:nombreTrajetsOccasionnels 11745 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-7> ;
-    divvy:nombreTotalTrajets 71348 ;
-    divvy:nombreTrajetsAbonnes 55535 ;
-    divvy:nombreTrajetsOccasionnels 15813 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-8> ;
-    divvy:nombreTotalTrajets 54186 ;
-    divvy:nombreTrajetsAbonnes 38230 ;
-    divvy:nombreTrajetsOccasionnels 15956 .
-
-<http://example.org/divvy/observation/temps/jour-6/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-9> ;
-    divvy:nombreTotalTrajets 51637 ;
-    divvy:nombreTrajetsAbonnes 31823 ;
-    divvy:nombreTrajetsOccasionnels 19814 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-0> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-0> ;
-    divvy:nombreTotalTrajets 19015 ;
-    divvy:nombreTrajetsAbonnes 8176 ;
-    divvy:nombreTrajetsOccasionnels 10839 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-1> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-1> ;
-    divvy:nombreTotalTrajets 11329 ;
-    divvy:nombreTrajetsAbonnes 4714 ;
-    divvy:nombreTrajetsOccasionnels 6615 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-10> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-10> ;
-    divvy:nombreTotalTrajets 104634 ;
-    divvy:nombreTrajetsAbonnes 54276 ;
-    divvy:nombreTrajetsOccasionnels 50358 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-11> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-11> ;
-    divvy:nombreTotalTrajets 112400 ;
-    divvy:nombreTrajetsAbonnes 56392 ;
-    divvy:nombreTrajetsOccasionnels 56008 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-12> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-12> ;
-    divvy:nombreTotalTrajets 114271 ;
-    divvy:nombreTrajetsAbonnes 56307 ;
-    divvy:nombreTrajetsOccasionnels 57964 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-13> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-13> ;
-    divvy:nombreTotalTrajets 114127 ;
-    divvy:nombreTrajetsAbonnes 55610 ;
-    divvy:nombreTrajetsOccasionnels 58517 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-14> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-14> ;
-    divvy:nombreTotalTrajets 113265 ;
-    divvy:nombreTrajetsAbonnes 54699 ;
-    divvy:nombreTrajetsOccasionnels 58566 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-15> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-15> ;
-    divvy:nombreTotalTrajets 110958 ;
-    divvy:nombreTrajetsAbonnes 54587 ;
-    divvy:nombreTrajetsOccasionnels 56371 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-16> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-16> ;
-    divvy:nombreTotalTrajets 101000 ;
-    divvy:nombreTrajetsAbonnes 51151 ;
-    divvy:nombreTrajetsOccasionnels 49849 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-17> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-17> ;
-    divvy:nombreTotalTrajets 88612 ;
-    divvy:nombreTrajetsAbonnes 46661 ;
-    divvy:nombreTrajetsOccasionnels 41951 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-18> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-18> ;
-    divvy:nombreTotalTrajets 68378 ;
-    divvy:nombreTrajetsAbonnes 36065 ;
-    divvy:nombreTrajetsOccasionnels 32313 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-19> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-19> ;
-    divvy:nombreTotalTrajets 50140 ;
-    divvy:nombreTrajetsAbonnes 26208 ;
-    divvy:nombreTrajetsOccasionnels 23932 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-2> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-2> ;
-    divvy:nombreTotalTrajets 5981 ;
-    divvy:nombreTrajetsAbonnes 2650 ;
-    divvy:nombreTrajetsOccasionnels 3331 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-20> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-20> ;
-    divvy:nombreTotalTrajets 43914 ;
-    divvy:nombreTrajetsAbonnes 21892 ;
-    divvy:nombreTrajetsOccasionnels 22022 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-21> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-21> ;
-    divvy:nombreTotalTrajets 42352 ;
-    divvy:nombreTrajetsAbonnes 20150 ;
-    divvy:nombreTrajetsOccasionnels 22202 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-22> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-22> ;
-    divvy:nombreTotalTrajets 33327 ;
-    divvy:nombreTrajetsAbonnes 15758 ;
-    divvy:nombreTrajetsOccasionnels 17569 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-23> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-23> ;
     divvy:nombreTotalTrajets 27446 ;
     divvy:nombreTrajetsAbonnes 12027 ;
     divvy:nombreTrajetsOccasionnels 15419 .
 
+<http://example.org/divvy/observation/temps/jour-1/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-1> ;
+    divvy:nombreTotalTrajets 18557 ;
+    divvy:nombreTrajetsAbonnes 7979 ;
+    divvy:nombreTrajetsOccasionnels 10578 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-10> ;
+    divvy:nombreTotalTrajets 75110 ;
+    divvy:nombreTrajetsAbonnes 41732 ;
+    divvy:nombreTrajetsOccasionnels 33378 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-11> ;
+    divvy:nombreTotalTrajets 89724 ;
+    divvy:nombreTrajetsAbonnes 47634 ;
+    divvy:nombreTrajetsOccasionnels 42090 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-12> ;
+    divvy:nombreTotalTrajets 98732 ;
+    divvy:nombreTrajetsAbonnes 50873 ;
+    divvy:nombreTrajetsOccasionnels 47859 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-13> ;
+    divvy:nombreTotalTrajets 99443 ;
+    divvy:nombreTrajetsAbonnes 50749 ;
+    divvy:nombreTrajetsOccasionnels 48694 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-14> ;
+    divvy:nombreTotalTrajets 100128 ;
+    divvy:nombreTrajetsAbonnes 50522 ;
+    divvy:nombreTrajetsOccasionnels 49606 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-15> ;
+    divvy:nombreTotalTrajets 102224 ;
+    divvy:nombreTrajetsAbonnes 51211 ;
+    divvy:nombreTrajetsOccasionnels 51013 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-16> ;
+    divvy:nombreTotalTrajets 98835 ;
+    divvy:nombreTrajetsAbonnes 51355 ;
+    divvy:nombreTrajetsOccasionnels 47480 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-17> ;
+    divvy:nombreTotalTrajets 88510 ;
+    divvy:nombreTrajetsAbonnes 47697 ;
+    divvy:nombreTrajetsOccasionnels 40813 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-18> ;
+    divvy:nombreTotalTrajets 77412 ;
+    divvy:nombreTrajetsAbonnes 43364 ;
+    divvy:nombreTrajetsOccasionnels 34048 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-19> ;
+    divvy:nombreTotalTrajets 58434 ;
+    divvy:nombreTrajetsAbonnes 33406 ;
+    divvy:nombreTrajetsOccasionnels 25028 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-2> ;
+    divvy:nombreTotalTrajets 11946 ;
+    divvy:nombreTrajetsAbonnes 4881 ;
+    divvy:nombreTrajetsOccasionnels 7065 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-20> ;
+    divvy:nombreTotalTrajets 41765 ;
+    divvy:nombreTrajetsAbonnes 23706 ;
+    divvy:nombreTrajetsOccasionnels 18059 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-21> ;
+    divvy:nombreTotalTrajets 31032 ;
+    divvy:nombreTrajetsAbonnes 17486 ;
+    divvy:nombreTrajetsOccasionnels 13546 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-22> ;
+    divvy:nombreTotalTrajets 23823 ;
+    divvy:nombreTrajetsAbonnes 12336 ;
+    divvy:nombreTrajetsOccasionnels 11487 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-23> ;
+    divvy:nombreTotalTrajets 14651 ;
+    divvy:nombreTrajetsAbonnes 7228 ;
+    divvy:nombreTrajetsOccasionnels 7423 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-3> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-3> ;
+    divvy:nombreTotalTrajets 6763 ;
+    divvy:nombreTrajetsAbonnes 2887 ;
+    divvy:nombreTrajetsOccasionnels 3876 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-4> ;
+    divvy:nombreTotalTrajets 4681 ;
+    divvy:nombreTrajetsAbonnes 2107 ;
+    divvy:nombreTrajetsOccasionnels 2574 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-5> ;
+    divvy:nombreTotalTrajets 5494 ;
+    divvy:nombreTrajetsAbonnes 2964 ;
+    divvy:nombreTrajetsOccasionnels 2530 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-6> ;
+    divvy:nombreTotalTrajets 11666 ;
+    divvy:nombreTrajetsAbonnes 6847 ;
+    divvy:nombreTrajetsOccasionnels 4819 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-7> ;
+    divvy:nombreTotalTrajets 19649 ;
+    divvy:nombreTrajetsAbonnes 12026 ;
+    divvy:nombreTrajetsOccasionnels 7623 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-8> ;
+    divvy:nombreTotalTrajets 33833 ;
+    divvy:nombreTrajetsAbonnes 20803 ;
+    divvy:nombreTrajetsOccasionnels 13030 .
+
+<http://example.org/divvy/observation/temps/jour-1/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-1/heure-9> ;
+    divvy:nombreTotalTrajets 53755 ;
+    divvy:nombreTrajetsAbonnes 31165 ;
+    divvy:nombreTrajetsOccasionnels 22590 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-0> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-0> ;
+    divvy:nombreTotalTrajets 9529 ;
+    divvy:nombreTrajetsAbonnes 4155 ;
+    divvy:nombreTrajetsOccasionnels 5374 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-1> ;
+    divvy:nombreTotalTrajets 5564 ;
+    divvy:nombreTrajetsAbonnes 2425 ;
+    divvy:nombreTrajetsOccasionnels 3139 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-10> ;
+    divvy:nombreTotalTrajets 43826 ;
+    divvy:nombreTrajetsAbonnes 28206 ;
+    divvy:nombreTrajetsOccasionnels 15620 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-11> ;
+    divvy:nombreTotalTrajets 54448 ;
+    divvy:nombreTrajetsAbonnes 34091 ;
+    divvy:nombreTrajetsOccasionnels 20357 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-12> ;
+    divvy:nombreTotalTrajets 63913 ;
+    divvy:nombreTrajetsAbonnes 39661 ;
+    divvy:nombreTrajetsOccasionnels 24252 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-13> ;
+    divvy:nombreTotalTrajets 64365 ;
+    divvy:nombreTrajetsAbonnes 38941 ;
+    divvy:nombreTrajetsOccasionnels 25424 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-14> ;
+    divvy:nombreTotalTrajets 67400 ;
+    divvy:nombreTrajetsAbonnes 40600 ;
+    divvy:nombreTrajetsOccasionnels 26800 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-15> ;
+    divvy:nombreTotalTrajets 83941 ;
+    divvy:nombreTrajetsAbonnes 54258 ;
+    divvy:nombreTrajetsOccasionnels 29683 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-16> ;
+    divvy:nombreTotalTrajets 121705 ;
+    divvy:nombreTrajetsAbonnes 85246 ;
+    divvy:nombreTrajetsOccasionnels 36459 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-17> ;
+    divvy:nombreTotalTrajets 150643 ;
+    divvy:nombreTrajetsAbonnes 107808 ;
+    divvy:nombreTrajetsOccasionnels 42835 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-18> ;
+    divvy:nombreTotalTrajets 114572 ;
+    divvy:nombreTrajetsAbonnes 79138 ;
+    divvy:nombreTrajetsOccasionnels 35434 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-19> ;
+    divvy:nombreTotalTrajets 76348 ;
+    divvy:nombreTrajetsAbonnes 51817 ;
+    divvy:nombreTrajetsOccasionnels 24531 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-2> ;
+    divvy:nombreTotalTrajets 3406 ;
+    divvy:nombreTrajetsAbonnes 1323 ;
+    divvy:nombreTrajetsOccasionnels 2083 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-20> ;
+    divvy:nombreTotalTrajets 51033 ;
+    divvy:nombreTrajetsAbonnes 33902 ;
+    divvy:nombreTrajetsOccasionnels 17131 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-21> ;
+    divvy:nombreTotalTrajets 36337 ;
+    divvy:nombreTrajetsAbonnes 23625 ;
+    divvy:nombreTrajetsOccasionnels 12712 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-22> ;
+    divvy:nombreTotalTrajets 22791 ;
+    divvy:nombreTrajetsAbonnes 13645 ;
+    divvy:nombreTrajetsOccasionnels 9146 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-23> ;
+    divvy:nombreTotalTrajets 12609 ;
+    divvy:nombreTrajetsAbonnes 6911 ;
+    divvy:nombreTrajetsOccasionnels 5698 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-3> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-3> ;
+    divvy:nombreTotalTrajets 2351 ;
+    divvy:nombreTrajetsAbonnes 1124 ;
+    divvy:nombreTrajetsOccasionnels 1227 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-4> ;
+    divvy:nombreTotalTrajets 3043 ;
+    divvy:nombreTrajetsAbonnes 1915 ;
+    divvy:nombreTrajetsOccasionnels 1128 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-5> ;
+    divvy:nombreTotalTrajets 12343 ;
+    divvy:nombreTrajetsAbonnes 9726 ;
+    divvy:nombreTrajetsOccasionnels 2617 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-6> ;
+    divvy:nombreTotalTrajets 36631 ;
+    divvy:nombreTrajetsAbonnes 30152 ;
+    divvy:nombreTrajetsOccasionnels 6479 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-7> ;
+    divvy:nombreTotalTrajets 68471 ;
+    divvy:nombreTrajetsAbonnes 56636 ;
+    divvy:nombreTrajetsOccasionnels 11835 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-8> ;
+    divvy:nombreTotalTrajets 84804 ;
+    divvy:nombreTrajetsAbonnes 68875 ;
+    divvy:nombreTrajetsOccasionnels 15929 .
+
+<http://example.org/divvy/observation/temps/jour-2/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-2/heure-9> ;
+    divvy:nombreTotalTrajets 52020 ;
+    divvy:nombreTrajetsAbonnes 38400 ;
+    divvy:nombreTrajetsOccasionnels 13620 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-0> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-0> ;
+    divvy:nombreTotalTrajets 7349 ;
+    divvy:nombreTrajetsAbonnes 3489 ;
+    divvy:nombreTrajetsOccasionnels 3860 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-1> ;
+    divvy:nombreTotalTrajets 3839 ;
+    divvy:nombreTrajetsAbonnes 1795 ;
+    divvy:nombreTrajetsOccasionnels 2044 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-10> ;
+    divvy:nombreTotalTrajets 41121 ;
+    divvy:nombreTrajetsAbonnes 28409 ;
+    divvy:nombreTrajetsOccasionnels 12712 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-11> ;
+    divvy:nombreTotalTrajets 48485 ;
+    divvy:nombreTrajetsAbonnes 32809 ;
+    divvy:nombreTrajetsOccasionnels 15676 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-12> ;
+    divvy:nombreTotalTrajets 57634 ;
+    divvy:nombreTrajetsAbonnes 38863 ;
+    divvy:nombreTrajetsOccasionnels 18771 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-13> ;
+    divvy:nombreTotalTrajets 57260 ;
+    divvy:nombreTrajetsAbonnes 37732 ;
+    divvy:nombreTrajetsOccasionnels 19528 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-14> ;
+    divvy:nombreTotalTrajets 58205 ;
+    divvy:nombreTrajetsAbonnes 37674 ;
+    divvy:nombreTrajetsOccasionnels 20531 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-15> ;
+    divvy:nombreTotalTrajets 80616 ;
+    divvy:nombreTrajetsAbonnes 55635 ;
+    divvy:nombreTrajetsOccasionnels 24981 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-16> ;
+    divvy:nombreTotalTrajets 131028 ;
+    divvy:nombreTrajetsAbonnes 95978 ;
+    divvy:nombreTrajetsOccasionnels 35050 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-17> ;
+    divvy:nombreTotalTrajets 161664 ;
+    divvy:nombreTrajetsAbonnes 118021 ;
+    divvy:nombreTrajetsOccasionnels 43643 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-18> ;
+    divvy:nombreTotalTrajets 119941 ;
+    divvy:nombreTrajetsAbonnes 83649 ;
+    divvy:nombreTrajetsOccasionnels 36292 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-19> ;
+    divvy:nombreTotalTrajets 78151 ;
+    divvy:nombreTrajetsAbonnes 53826 ;
+    divvy:nombreTrajetsOccasionnels 24325 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-2> ;
+    divvy:nombreTotalTrajets 2286 ;
+    divvy:nombreTrajetsAbonnes 961 ;
+    divvy:nombreTrajetsOccasionnels 1325 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-20> ;
+    divvy:nombreTotalTrajets 52475 ;
+    divvy:nombreTrajetsAbonnes 35556 ;
+    divvy:nombreTrajetsOccasionnels 16919 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-21> ;
+    divvy:nombreTotalTrajets 41554 ;
+    divvy:nombreTrajetsAbonnes 27016 ;
+    divvy:nombreTrajetsOccasionnels 14538 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-22> ;
+    divvy:nombreTotalTrajets 26733 ;
+    divvy:nombreTrajetsAbonnes 16516 ;
+    divvy:nombreTrajetsOccasionnels 10217 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-23> ;
+    divvy:nombreTotalTrajets 14501 ;
+    divvy:nombreTrajetsAbonnes 8381 ;
+    divvy:nombreTrajetsOccasionnels 6120 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-3> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-3> ;
+    divvy:nombreTotalTrajets 1667 ;
+    divvy:nombreTrajetsAbonnes 884 ;
+    divvy:nombreTrajetsOccasionnels 783 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-4> ;
+    divvy:nombreTotalTrajets 2901 ;
+    divvy:nombreTrajetsAbonnes 1912 ;
+    divvy:nombreTrajetsOccasionnels 989 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-5> ;
+    divvy:nombreTotalTrajets 13746 ;
+    divvy:nombreTrajetsAbonnes 11063 ;
+    divvy:nombreTrajetsOccasionnels 2683 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-6> ;
+    divvy:nombreTotalTrajets 42212 ;
+    divvy:nombreTrajetsAbonnes 34588 ;
+    divvy:nombreTrajetsOccasionnels 7624 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-7> ;
+    divvy:nombreTotalTrajets 85627 ;
+    divvy:nombreTrajetsAbonnes 71203 ;
+    divvy:nombreTrajetsOccasionnels 14424 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-8> ;
+    divvy:nombreTotalTrajets 106541 ;
+    divvy:nombreTrajetsAbonnes 87092 ;
+    divvy:nombreTrajetsOccasionnels 19449 .
+
+<http://example.org/divvy/observation/temps/jour-3/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-3/heure-9> ;
+    divvy:nombreTotalTrajets 56526 ;
+    divvy:nombreTrajetsAbonnes 43072 ;
+    divvy:nombreTrajetsOccasionnels 13454 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-0> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-0> ;
+    divvy:nombreTotalTrajets 8088 ;
+    divvy:nombreTrajetsAbonnes 4040 ;
+    divvy:nombreTrajetsOccasionnels 4048 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-1> ;
+    divvy:nombreTotalTrajets 4367 ;
+    divvy:nombreTrajetsAbonnes 2012 ;
+    divvy:nombreTrajetsOccasionnels 2355 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-10> ;
+    divvy:nombreTotalTrajets 43414 ;
+    divvy:nombreTrajetsAbonnes 30200 ;
+    divvy:nombreTrajetsOccasionnels 13214 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-11> ;
+    divvy:nombreTotalTrajets 52495 ;
+    divvy:nombreTrajetsAbonnes 35643 ;
+    divvy:nombreTrajetsOccasionnels 16852 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-12> ;
+    divvy:nombreTotalTrajets 61104 ;
+    divvy:nombreTrajetsAbonnes 41391 ;
+    divvy:nombreTrajetsOccasionnels 19713 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-13> ;
+    divvy:nombreTotalTrajets 58876 ;
+    divvy:nombreTrajetsAbonnes 39380 ;
+    divvy:nombreTrajetsOccasionnels 19496 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-14> ;
+    divvy:nombreTotalTrajets 62523 ;
+    divvy:nombreTrajetsAbonnes 40764 ;
+    divvy:nombreTrajetsOccasionnels 21759 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-15> ;
+    divvy:nombreTotalTrajets 82320 ;
+    divvy:nombreTrajetsAbonnes 56684 ;
+    divvy:nombreTrajetsOccasionnels 25636 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-16> ;
+    divvy:nombreTotalTrajets 131637 ;
+    divvy:nombreTrajetsAbonnes 95218 ;
+    divvy:nombreTrajetsOccasionnels 36419 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-17> ;
+    divvy:nombreTotalTrajets 163384 ;
+    divvy:nombreTrajetsAbonnes 116879 ;
+    divvy:nombreTrajetsOccasionnels 46505 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-18> ;
+    divvy:nombreTotalTrajets 122223 ;
+    divvy:nombreTrajetsAbonnes 83559 ;
+    divvy:nombreTrajetsOccasionnels 38664 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-19> ;
+    divvy:nombreTotalTrajets 82255 ;
+    divvy:nombreTrajetsAbonnes 55106 ;
+    divvy:nombreTrajetsOccasionnels 27149 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-2> ;
+    divvy:nombreTotalTrajets 2433 ;
+    divvy:nombreTrajetsAbonnes 1056 ;
+    divvy:nombreTrajetsOccasionnels 1377 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-20> ;
+    divvy:nombreTotalTrajets 58183 ;
+    divvy:nombreTrajetsAbonnes 38192 ;
+    divvy:nombreTrajetsOccasionnels 19991 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-21> ;
+    divvy:nombreTotalTrajets 45965 ;
+    divvy:nombreTrajetsAbonnes 29115 ;
+    divvy:nombreTrajetsOccasionnels 16850 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-22> ;
+    divvy:nombreTotalTrajets 31010 ;
+    divvy:nombreTrajetsAbonnes 18483 ;
+    divvy:nombreTrajetsOccasionnels 12527 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-23> ;
+    divvy:nombreTotalTrajets 16918 ;
+    divvy:nombreTrajetsAbonnes 9593 ;
+    divvy:nombreTrajetsOccasionnels 7325 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-3> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-3> ;
+    divvy:nombreTotalTrajets 1825 ;
+    divvy:nombreTrajetsAbonnes 984 ;
+    divvy:nombreTrajetsOccasionnels 841 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-4> ;
+    divvy:nombreTotalTrajets 2804 ;
+    divvy:nombreTrajetsAbonnes 1764 ;
+    divvy:nombreTrajetsOccasionnels 1040 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-5> ;
+    divvy:nombreTotalTrajets 13768 ;
+    divvy:nombreTrajetsAbonnes 10867 ;
+    divvy:nombreTrajetsOccasionnels 2901 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-6> ;
+    divvy:nombreTotalTrajets 41270 ;
+    divvy:nombreTrajetsAbonnes 33893 ;
+    divvy:nombreTrajetsOccasionnels 7377 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-7> ;
+    divvy:nombreTotalTrajets 83664 ;
+    divvy:nombreTrajetsAbonnes 69013 ;
+    divvy:nombreTrajetsOccasionnels 14651 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-8> ;
+    divvy:nombreTotalTrajets 104748 ;
+    divvy:nombreTrajetsAbonnes 85011 ;
+    divvy:nombreTrajetsOccasionnels 19737 .
+
+<http://example.org/divvy/observation/temps/jour-4/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-4/heure-9> ;
+    divvy:nombreTotalTrajets 57653 ;
+    divvy:nombreTrajetsAbonnes 44471 ;
+    divvy:nombreTrajetsOccasionnels 13182 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-0> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-0> ;
+    divvy:nombreTotalTrajets 9367 ;
+    divvy:nombreTrajetsAbonnes 4540 ;
+    divvy:nombreTrajetsOccasionnels 4827 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-1> ;
+    divvy:nombreTotalTrajets 4802 ;
+    divvy:nombreTrajetsAbonnes 2161 ;
+    divvy:nombreTrajetsOccasionnels 2641 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-10> ;
+    divvy:nombreTotalTrajets 45242 ;
+    divvy:nombreTrajetsAbonnes 30876 ;
+    divvy:nombreTrajetsOccasionnels 14366 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-11> ;
+    divvy:nombreTotalTrajets 53767 ;
+    divvy:nombreTrajetsAbonnes 35646 ;
+    divvy:nombreTrajetsOccasionnels 18121 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-12> ;
+    divvy:nombreTotalTrajets 64320 ;
+    divvy:nombreTrajetsAbonnes 42152 ;
+    divvy:nombreTrajetsOccasionnels 22168 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-13> ;
+    divvy:nombreTotalTrajets 63826 ;
+    divvy:nombreTrajetsAbonnes 40952 ;
+    divvy:nombreTrajetsOccasionnels 22874 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-14> ;
+    divvy:nombreTotalTrajets 65888 ;
+    divvy:nombreTrajetsAbonnes 40971 ;
+    divvy:nombreTrajetsOccasionnels 24917 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-15> ;
+    divvy:nombreTotalTrajets 86790 ;
+    divvy:nombreTrajetsAbonnes 57584 ;
+    divvy:nombreTrajetsOccasionnels 29206 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-16> ;
+    divvy:nombreTotalTrajets 130133 ;
+    divvy:nombreTrajetsAbonnes 91848 ;
+    divvy:nombreTrajetsOccasionnels 38285 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-17> ;
+    divvy:nombreTotalTrajets 161491 ;
+    divvy:nombreTrajetsAbonnes 113289 ;
+    divvy:nombreTrajetsOccasionnels 48202 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-18> ;
+    divvy:nombreTotalTrajets 121071 ;
+    divvy:nombreTrajetsAbonnes 81167 ;
+    divvy:nombreTrajetsOccasionnels 39904 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-19> ;
+    divvy:nombreTotalTrajets 80773 ;
+    divvy:nombreTrajetsAbonnes 53385 ;
+    divvy:nombreTrajetsOccasionnels 27388 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-2> ;
+    divvy:nombreTotalTrajets 2704 ;
+    divvy:nombreTrajetsAbonnes 1178 ;
+    divvy:nombreTrajetsOccasionnels 1526 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-20> ;
+    divvy:nombreTotalTrajets 55003 ;
+    divvy:nombreTrajetsAbonnes 36222 ;
+    divvy:nombreTrajetsOccasionnels 18781 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-21> ;
+    divvy:nombreTotalTrajets 43761 ;
+    divvy:nombreTrajetsAbonnes 27773 ;
+    divvy:nombreTrajetsOccasionnels 15988 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-22> ;
+    divvy:nombreTotalTrajets 34602 ;
+    divvy:nombreTrajetsAbonnes 20436 ;
+    divvy:nombreTrajetsOccasionnels 14166 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-23> ;
+    divvy:nombreTotalTrajets 22042 ;
+    divvy:nombreTrajetsAbonnes 12141 ;
+    divvy:nombreTrajetsOccasionnels 9901 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-3> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-3> ;
+    divvy:nombreTotalTrajets 1810 ;
+    divvy:nombreTrajetsAbonnes 931 ;
+    divvy:nombreTrajetsOccasionnels 879 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-4> ;
+    divvy:nombreTotalTrajets 2746 ;
+    divvy:nombreTrajetsAbonnes 1746 ;
+    divvy:nombreTrajetsOccasionnels 1000 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-5> ;
+    divvy:nombreTotalTrajets 12178 ;
+    divvy:nombreTrajetsAbonnes 9466 ;
+    divvy:nombreTrajetsOccasionnels 2712 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-6> ;
+    divvy:nombreTotalTrajets 38100 ;
+    divvy:nombreTrajetsAbonnes 30893 ;
+    divvy:nombreTrajetsOccasionnels 7207 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-7> ;
+    divvy:nombreTotalTrajets 77899 ;
+    divvy:nombreTrajetsAbonnes 63710 ;
+    divvy:nombreTrajetsOccasionnels 14189 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-8> ;
+    divvy:nombreTotalTrajets 99215 ;
+    divvy:nombreTrajetsAbonnes 80299 ;
+    divvy:nombreTrajetsOccasionnels 18916 .
+
+<http://example.org/divvy/observation/temps/jour-5/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-5/heure-9> ;
+    divvy:nombreTotalTrajets 58878 ;
+    divvy:nombreTrajetsAbonnes 44245 ;
+    divvy:nombreTrajetsOccasionnels 14633 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-0> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-0> ;
+    divvy:nombreTotalTrajets 13480 ;
+    divvy:nombreTrajetsAbonnes 6578 ;
+    divvy:nombreTrajetsOccasionnels 6902 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-1> ;
+    divvy:nombreTotalTrajets 7608 ;
+    divvy:nombreTrajetsAbonnes 3411 ;
+    divvy:nombreTrajetsOccasionnels 4197 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-10> ;
+    divvy:nombreTotalTrajets 51637 ;
+    divvy:nombreTrajetsAbonnes 31823 ;
+    divvy:nombreTrajetsOccasionnels 19814 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-11> ;
+    divvy:nombreTotalTrajets 65789 ;
+    divvy:nombreTrajetsAbonnes 39669 ;
+    divvy:nombreTrajetsOccasionnels 26120 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-12> ;
+    divvy:nombreTotalTrajets 80037 ;
+    divvy:nombreTrajetsAbonnes 47034 ;
+    divvy:nombreTrajetsOccasionnels 33003 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-13> ;
+    divvy:nombreTotalTrajets 81294 ;
+    divvy:nombreTrajetsAbonnes 47417 ;
+    divvy:nombreTrajetsOccasionnels 33877 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-14> ;
+    divvy:nombreTotalTrajets 83871 ;
+    divvy:nombreTrajetsAbonnes 48729 ;
+    divvy:nombreTrajetsOccasionnels 35142 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-15> ;
+    divvy:nombreTotalTrajets 103670 ;
+    divvy:nombreTrajetsAbonnes 62730 ;
+    divvy:nombreTrajetsOccasionnels 40940 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-16> ;
+    divvy:nombreTotalTrajets 127069 ;
+    divvy:nombreTrajetsAbonnes 79901 ;
+    divvy:nombreTrajetsOccasionnels 47168 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-17> ;
+    divvy:nombreTotalTrajets 136587 ;
+    divvy:nombreTrajetsAbonnes 86097 ;
+    divvy:nombreTrajetsOccasionnels 50490 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-18> ;
+    divvy:nombreTotalTrajets 113229 ;
+    divvy:nombreTrajetsAbonnes 69579 ;
+    divvy:nombreTrajetsOccasionnels 43650 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-19> ;
+    divvy:nombreTotalTrajets 80049 ;
+    divvy:nombreTrajetsAbonnes 48046 ;
+    divvy:nombreTrajetsOccasionnels 32003 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-2> ;
+    divvy:nombreTotalTrajets 4247 ;
+    divvy:nombreTrajetsAbonnes 1773 ;
+    divvy:nombreTrajetsOccasionnels 2474 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-20> ;
+    divvy:nombreTotalTrajets 54260 ;
+    divvy:nombreTrajetsAbonnes 32032 ;
+    divvy:nombreTrajetsOccasionnels 22228 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-21> ;
+    divvy:nombreTotalTrajets 42818 ;
+    divvy:nombreTrajetsAbonnes 24648 ;
+    divvy:nombreTrajetsOccasionnels 18170 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-22> ;
+    divvy:nombreTotalTrajets 38203 ;
+    divvy:nombreTrajetsAbonnes 20496 ;
+    divvy:nombreTrajetsOccasionnels 17707 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-23> ;
+    divvy:nombreTotalTrajets 32032 ;
+    divvy:nombreTrajetsAbonnes 15837 ;
+    divvy:nombreTrajetsOccasionnels 16195 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-3> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-3> ;
+    divvy:nombreTotalTrajets 2681 ;
+    divvy:nombreTrajetsAbonnes 1323 ;
+    divvy:nombreTrajetsOccasionnels 1358 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-4> ;
+    divvy:nombreTotalTrajets 3200 ;
+    divvy:nombreTrajetsAbonnes 1906 ;
+    divvy:nombreTrajetsOccasionnels 1294 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-5> ;
+    divvy:nombreTotalTrajets 11771 ;
+    divvy:nombreTrajetsAbonnes 8885 ;
+    divvy:nombreTrajetsOccasionnels 2886 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-6> ;
+    divvy:nombreTotalTrajets 31795 ;
+    divvy:nombreTrajetsAbonnes 25187 ;
+    divvy:nombreTrajetsOccasionnels 6608 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-7> ;
+    divvy:nombreTotalTrajets 57602 ;
+    divvy:nombreTrajetsAbonnes 45857 ;
+    divvy:nombreTrajetsOccasionnels 11745 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-8> ;
+    divvy:nombreTotalTrajets 71348 ;
+    divvy:nombreTrajetsAbonnes 55535 ;
+    divvy:nombreTrajetsOccasionnels 15813 .
+
+<http://example.org/divvy/observation/temps/jour-6/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-6/heure-9> ;
+    divvy:nombreTotalTrajets 54186 ;
+    divvy:nombreTrajetsAbonnes 38230 ;
+    divvy:nombreTrajetsOccasionnels 15956 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-0> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-0> ;
+    divvy:nombreTotalTrajets 26854 ;
+    divvy:nombreTrajetsAbonnes 12027 ;
+    divvy:nombreTrajetsOccasionnels 14827 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-1> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-1> ;
+    divvy:nombreTotalTrajets 19015 ;
+    divvy:nombreTrajetsAbonnes 8176 ;
+    divvy:nombreTrajetsOccasionnels 10839 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-10> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-10> ;
+    divvy:nombreTotalTrajets 89200 ;
+    divvy:nombreTrajetsAbonnes 49346 ;
+    divvy:nombreTrajetsOccasionnels 39854 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-11> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-11> ;
+    divvy:nombreTotalTrajets 104634 ;
+    divvy:nombreTrajetsAbonnes 54276 ;
+    divvy:nombreTrajetsOccasionnels 50358 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-12> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-12> ;
+    divvy:nombreTotalTrajets 112400 ;
+    divvy:nombreTrajetsAbonnes 56392 ;
+    divvy:nombreTrajetsOccasionnels 56008 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-13> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-13> ;
+    divvy:nombreTotalTrajets 114271 ;
+    divvy:nombreTrajetsAbonnes 56307 ;
+    divvy:nombreTrajetsOccasionnels 57964 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-14> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-14> ;
+    divvy:nombreTotalTrajets 114127 ;
+    divvy:nombreTrajetsAbonnes 55610 ;
+    divvy:nombreTrajetsOccasionnels 58517 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-15> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-15> ;
+    divvy:nombreTotalTrajets 113265 ;
+    divvy:nombreTrajetsAbonnes 54699 ;
+    divvy:nombreTrajetsOccasionnels 58566 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-16> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-16> ;
+    divvy:nombreTotalTrajets 110958 ;
+    divvy:nombreTrajetsAbonnes 54587 ;
+    divvy:nombreTrajetsOccasionnels 56371 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-17> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-17> ;
+    divvy:nombreTotalTrajets 101000 ;
+    divvy:nombreTrajetsAbonnes 51151 ;
+    divvy:nombreTrajetsOccasionnels 49849 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-18> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-18> ;
+    divvy:nombreTotalTrajets 88612 ;
+    divvy:nombreTrajetsAbonnes 46661 ;
+    divvy:nombreTrajetsOccasionnels 41951 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-19> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-19> ;
+    divvy:nombreTotalTrajets 68378 ;
+    divvy:nombreTrajetsAbonnes 36065 ;
+    divvy:nombreTrajetsOccasionnels 32313 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-2> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-2> ;
+    divvy:nombreTotalTrajets 11329 ;
+    divvy:nombreTrajetsAbonnes 4714 ;
+    divvy:nombreTrajetsOccasionnels 6615 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-20> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-20> ;
+    divvy:nombreTotalTrajets 50140 ;
+    divvy:nombreTrajetsAbonnes 26208 ;
+    divvy:nombreTrajetsOccasionnels 23932 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-21> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-21> ;
+    divvy:nombreTotalTrajets 43914 ;
+    divvy:nombreTrajetsAbonnes 21892 ;
+    divvy:nombreTrajetsOccasionnels 22022 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-22> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-22> ;
+    divvy:nombreTotalTrajets 42352 ;
+    divvy:nombreTrajetsAbonnes 20150 ;
+    divvy:nombreTrajetsOccasionnels 22202 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-23> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-23> ;
+    divvy:nombreTotalTrajets 33327 ;
+    divvy:nombreTrajetsAbonnes 15758 ;
+    divvy:nombreTrajetsOccasionnels 17569 .
+
 <http://example.org/divvy/observation/temps/jour-7/heure-3> a divvy:ObservationTrajets ;
     divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-3> ;
+    divvy:nombreTotalTrajets 5981 ;
+    divvy:nombreTrajetsAbonnes 2650 ;
+    divvy:nombreTrajetsOccasionnels 3331 .
+
+<http://example.org/divvy/observation/temps/jour-7/heure-4> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-4> ;
     divvy:nombreTotalTrajets 3597 ;
     divvy:nombreTrajetsAbonnes 1747 ;
     divvy:nombreTrajetsOccasionnels 1850 .
 
-<http://example.org/divvy/observation/temps/jour-7/heure-4> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-4> ;
+<http://example.org/divvy/observation/temps/jour-7/heure-5> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-5> ;
     divvy:nombreTotalTrajets 5433 ;
     divvy:nombreTrajetsAbonnes 3322 ;
     divvy:nombreTrajetsOccasionnels 2111 .
 
-<http://example.org/divvy/observation/temps/jour-7/heure-5> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-5> ;
+<http://example.org/divvy/observation/temps/jour-7/heure-6> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-6> ;
     divvy:nombreTotalTrajets 12666 ;
     divvy:nombreTrajetsAbonnes 8618 ;
     divvy:nombreTrajetsOccasionnels 4048 .
 
-<http://example.org/divvy/observation/temps/jour-7/heure-6> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-6> ;
+<http://example.org/divvy/observation/temps/jour-7/heure-7> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-7> ;
     divvy:nombreTotalTrajets 24640 ;
     divvy:nombreTrajetsAbonnes 16316 ;
     divvy:nombreTrajetsOccasionnels 8324 .
 
-<http://example.org/divvy/observation/temps/jour-7/heure-7> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-7> ;
+<http://example.org/divvy/observation/temps/jour-7/heure-8> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-8> ;
     divvy:nombreTotalTrajets 45376 ;
     divvy:nombreTrajetsAbonnes 28836 ;
     divvy:nombreTrajetsOccasionnels 16540 .
 
-<http://example.org/divvy/observation/temps/jour-7/heure-8> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-8> ;
+<http://example.org/divvy/observation/temps/jour-7/heure-9> a divvy:ObservationTrajets ;
+    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-9> ;
     divvy:nombreTotalTrajets 67404 ;
     divvy:nombreTrajetsAbonnes 40206 ;
     divvy:nombreTrajetsOccasionnels 27198 .
-
-<http://example.org/divvy/observation/temps/jour-7/heure-9> a divvy:ObservationTrajets ;
-    divvy:concernePeriode <http://example.org/divvy/periode/jour-7/heure-9> ;
-    divvy:nombreTotalTrajets 89200 ;
-    divvy:nombreTrajetsAbonnes 49346 ;
-    divvy:nombreTrajetsOccasionnels 39854 .
 
 <http://example.org/divvy/observation/vehicule/classic_bike/casual> a divvy:ObservationTrajets ;
     divvy:concerneVehicule divvy:VeloClassique ;
@@ -10289,19 +10289,19 @@ divvy:possedeRepartition a owl:ObjectProperty ;
 
 <http://example.org/divvy/repartition/classic_bike/casual> a divvy:RepartitionCategorie ;
     divvy:concerneCategorie divvy:Occasionnel ;
-    divvy:nombreTrajetsCategorie 1647497 .
+    divvy:nombreTrajetsCategorie 1647524 .
 
 <http://example.org/divvy/repartition/classic_bike/member> a divvy:RepartitionCategorie ;
     divvy:concerneCategorie divvy:Abonne ;
-    divvy:nombreTrajetsCategorie 3035928 .
+    divvy:nombreTrajetsCategorie 3035963 .
 
 <http://example.org/divvy/repartition/electric_bike/casual> a divvy:RepartitionCategorie ;
     divvy:concerneCategorie divvy:Occasionnel ;
-    divvy:nombreTrajetsCategorie 2417984 .
+    divvy:nombreTrajetsCategorie 2418046 .
 
 <http://example.org/divvy/repartition/electric_bike/member> a divvy:RepartitionCategorie ;
     divvy:concerneCategorie divvy:Abonne ;
-    divvy:nombreTrajetsCategorie 4166745 .
+    divvy:nombreTrajetsCategorie 4166801 .
 
 <http://example.org/divvy/repartition/electric_scooter/casual> a divvy:RepartitionCategorie ;
     divvy:concerneCategorie divvy:Occasionnel ;
