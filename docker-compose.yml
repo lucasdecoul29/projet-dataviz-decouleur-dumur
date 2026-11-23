@@ -67,6 +67,22 @@ services:
       - postgres
     ports:
       - "8080:8080"
+  # --- Application Streamlit -----------------------------------------------
+  streamlit:
+    profiles: ["app"]
+    build: ./visualisation/app
+    container_name: divvy-streamlit
+    ports:
+      - "8501:8501"
+    environment:
+      PG_HOST: postgres
+      PG_DB: divvy
+      PG_USER: divvy
+      PG_PASSWORD: divvy
+    volumes:
+      - ./visualisation/app:/app
+    depends_on:
+      - postgres
 
 volumes:
   ivy-cache:
