@@ -1,4 +1,6 @@
-### KPI 1 — Part des trajets occasionnels
+# Documentation des KPI — Tableau de bord Divvy
+
+## KPI 1 — Part des trajets occasionnels
 
 **Définition :**
 
@@ -19,7 +21,9 @@ Proportion des trajets réalisés par les utilisateurs occasionnels (`casual`) p
 
 Cet indicateur permet de mesurer le poids des utilisateurs occasionnels dans l'activité globale de Divvy. Il donne une première estimation du potentiel de conversion vers des abonnements et aide à déterminer l'importance à accorder aux campagnes marketing ciblant cette catégorie d'utilisateurs.
 
-### KPI 2 — Nombre total de trajets occasionnels
+---
+
+## KPI 2 — Nombre total de trajets occasionnels
 
 **Définition :**
 
@@ -37,7 +41,9 @@ Somme de la colonne `total_trips` pour les lignes correspondant aux utilisateurs
 
 Cet indicateur permet de mesurer le volume d'activité généré par les utilisateurs occasionnels. Il aide le persona à évaluer l'ampleur du public susceptible d'être ciblé par les campagnes de conversion et à dimensionner les actions marketing en fonction du volume d'utilisation observé.
 
-### KPI 3 — Durée moyenne des trajets occasionnels
+---
+
+## KPI 3 — Durée moyenne des trajets occasionnels
 
 **Définition :**
 
@@ -61,7 +67,9 @@ Moyenne pondérée des durées moyennes mensuelles par le nombre de trajets :
 
 Cet indicateur permet de mieux comprendre les habitudes d'utilisation des utilisateurs occasionnels. Il peut aider le persona à adapter les messages des campagnes marketing en fonction de la durée moyenne de leurs déplacements et à identifier des offres susceptibles de correspondre à leurs usages.
 
-### KPI 4 — Répartition des trajets occasionnels par type de véhicule
+---
+
+## KPI 4 — Répartition des trajets occasionnels par type de véhicule
 
 **Définition :**
 
